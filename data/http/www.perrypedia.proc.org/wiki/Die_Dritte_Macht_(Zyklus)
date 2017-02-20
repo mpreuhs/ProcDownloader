@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Die Dritte Macht (Zyklus) – Perrypedia</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+<meta name="generator" content="MediaWiki 1.23.11" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/mediawiki/opensearch_desc.php" title="Perrypedia (de)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://www.perrypedia.proc.org/mediawiki/api.php?action=rsd" />
+<link rel="copyright" href="http://www.gnu.org/copyleft/fdl.html" />
+<link rel="alternate" type="application/atom+xml" title="Atom-Feed für „Perrypedia“" href="/mediawiki/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom" />
+<link rel="stylesheet" href="http://www.perrypedia.proc.org/mediawiki/load.php?debug=false&amp;lang=de&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://www.perrypedia.proc.org/mediawiki/load.php?debug=false&amp;lang=de&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: ppdb:resourceloader:filter:minify-css:7:9a4d669b7a69b47a14ca94835bd431ab */</style>
+<script src="http://www.perrypedia.proc.org/mediawiki/load.php?debug=false&amp;lang=de&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Die_Dritte_Macht_(Zyklus)","wgTitle":"Die Dritte Macht (Zyklus)","wgCurRevisionId":1233252,"wgRevisionId":1233252,"wgArticleId":5550,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Perry Rhodan-Zyklus","Die Dritte Macht"],"wgBreakFrames":false,"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgMonthNamesShort":["","Jan.","Feb.","Mär","Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Die_Dritte_Macht_(Zyklus)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgSlideshowRefresh":null,"wgSlideshowSequence":null,"wgSlideshowTransition":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":0,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":1,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"language":"de","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":true,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":true,"searchNs101":false,"searchNs104":false,"searchNs105":false,"searchNs110":false,"searchNs111":false,"variant":"de"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: ppdb:resourceloader:filter:minify-js:7:c6cf2e4de8286b9b5783e3ac6a44b025 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+		<link rel="alternate" type="application/rdf+xml" title="Die Dritte Macht (Zyklus)" href="/mediawiki/index.php?title=Spezial:RDF_exportieren/Die_Dritte_Macht_(Zyklus)&amp;xmlmime=rdf" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/mediawiki/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr capitalize-all-nouns ns-0 ns-subject page-Die_Dritte_Macht_Zyklus skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<div id="siteNotice"><div id="localNotice" lang="de" dir="ltr"><div style="position:absolute; z-index:100; right:5px; top:-20px;" class="metadata" id="donate">
+<div style="text-align:right; font-size:80%"><a href="/wiki/Perrypedia:Spenden" title="Perrypedia:Spenden">Deine <b>Spenden</b></a> helfen, Perrypedia zu betreiben. 
+</div></div>
+</div></div>
+						<h1 id="firstHeading" class="firstHeading" lang="de"><span dir="auto">Die Dritte Macht (Zyklus)</span></h1>
+						<div id="bodyContent">
+								<div id="siteSub">Aus Perrypedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Wechseln zu:					<a href="#mw-navigation">Navigation</a>, 					<a href="#p-search">Suche</a>
+				</div>
+				<div id="mw-content-text" lang="de" dir="ltr" class="mw-content-ltr"><div style="border:1px solid #CCC;background:#F9F9F9;padding:0.5em;text-align:center">
+<div style="width:100%; height: 0px;">
+</div><div style="display:table; border-collapse:collapse; line-height:1em; -webkit-margin-before: 0px; -webkit-margin-after: 0px; -webkit-margin-start: 0px; -webkit-margin-end: 0px; font-style:normal; font-size:100%; font-variant:normal; font-weight:normal; text-decoration:none; }">
+<div style="display:table-row; padding: 0px;">
+        <div style="display:table-cell; width: 50%; text-align: right; white-space: nowrap;">
+            <p style="margin: 0px; padding: 0px;">
+		<a href="/wiki/Jahreskalender" title="Jahreskalender">Jahreskalender</a>&#160;|&#160;
+            </p>
+        </div>
+        <div style="display:table-cell; width: 0%; text-align: center; white-space: nowrap;">
+            <p style="margin: 0px; padding: 0px;">
+		<b><a href="/wiki/Zyklen" title="Zyklen">Zyklus-Seiten</a></b>
+            </p>
+        </div>
+        <div style="display:table-cell; width: 50%; text-align: left; white-space: nowrap;">
+            <p style="margin: 0px; padding: 0px;">
+		&#160;|&#160;<a href="/wiki/Portale_zur_Handlung_(Zyklen%C3%BCbersicht)" title="Portale zur Handlung (Zyklenübersicht)">Zyklus-Portale</a>
+            </p>
+        </div>
+    </div>
+</div><div style="width:100%; height: 0px;"></div><div style="width:100%; height: 0px;">
+</div><div style="display:table; border-collapse:collapse; line-height:1em; -webkit-margin-before: 0px; -webkit-margin-after: 0px; -webkit-margin-start: 0px; -webkit-margin-end: 0px; font-style:normal; font-size:100%; font-variant:normal; font-weight:normal; text-decoration:none; }">
+<div style="display:table-row; padding: 0px;">
+        <div style="display:table-cell; width: 50%; text-align: right; white-space: nowrap;">
+            <p style="margin: 0px; padding: 0px;">
+		
+            </p>
+        </div>
+        <div style="display:table-cell; width: 0%; text-align: center; white-space: nowrap;">
+            <p style="margin: 0px; padding: 0px;">
+		<b>1. Zyklus: Die Dritte Macht</b>
+            </p>
+        </div>
+        <div style="display:table-cell; width: 50%; text-align: left; white-space: nowrap;">
+            <p style="margin: 0px; padding: 0px;">
+		&#160;►&#160;<a href="/wiki/Atlan_und_Arkon_(Zyklus)" title="Atlan und Arkon (Zyklus)">Atlan und Arkon</a>
+            </p>
+        </div>
+    </div>
+</div><div style="width:100%; height: 0px;"></div><div style="width:100%; height: 0px;">
+</div><div style="display:table; border-collapse:collapse; line-height:1em; -webkit-margin-before: 0px; -webkit-margin-after: 0px; -webkit-margin-start: 0px; -webkit-margin-end: 0px; font-style:normal; font-size:100%; font-variant:normal; font-weight:normal; text-decoration:none; }">
+<div style="display:table-caption; text-align:center"><small><a href="/wiki/Portal_%22Die_Dritte_Macht%22_(Zyklus)" title="Portal &quot;Die Dritte Macht&quot; (Zyklus)">Zyklus-Portal "Die Dritte Macht"</a></small><div style="width:100%; height: 0px"></div></div><div style="display:table-row; padding: 0px;">
+        <div style="display:table-cell; width: 50%; text-align: right; white-space: nowrap;">
+            <p style="margin: 0px; padding: 0px;">
+		
+            </p>
+        </div>
+        <div style="display:table-cell; width: 0%; text-align: center; white-space: nowrap;">
+            <p style="margin: 0px; padding: 0px;">
+		<small>Handlungsjahre: &#160;<a href="/wiki/1971" title="1971">1971</a> | <a href="/wiki/1972" title="1972">1972</a> | <a href="/wiki/1973" title="1973">1973</a> | <a href="/wiki/1974" title="1974">1974</a> | <a href="/wiki/1975" title="1975">1975</a> | <a href="/wiki/1976" title="1976">1976</a> | <a href="/wiki/1977" title="1977">1977</a> | <a href="/wiki/1978" title="1978">1978</a> | <a href="/wiki/1979" title="1979">1979</a> | <a href="/wiki/1980" title="1980">1980</a> | <a href="/wiki/1981" title="1981">1981</a> | <a href="/wiki/1982" title="1982">1982</a> | <a href="/wiki/1983" title="1983">1983</a> | <a href="/wiki/1984" title="1984">1984</a></small>
+            </p>
+        </div>
+        <div style="display:table-cell; width: 50%; text-align: left; white-space: nowrap;">
+            <p style="margin: 0px; padding: 0px;">
+		
+            </p>
+        </div>
+    </div>
+</div><div style="width:100%; height: 0px;"></div>
+</div>
+<div class="toccolours Vorlage-Dieser_Artikel" style="margin:0 0 1em 0; padding:5px; border-width:0 0 1px 0;">
+<table border="0" cellpadding="2" cellspacing="2">
+<tr>
+<td valign="top"><a href="/wiki/Datei:Logo_Begriffskl%C3%A4rung.png" class="image" title="Begriffsklärung"><img alt="Begriffsklärung" src="/mediawiki/images/thumb/2/2f/Logo_Begriffskl%C3%A4rung.png/25px-Logo_Begriffskl%C3%A4rung.png" width="25" height="21" srcset="/mediawiki/images/thumb/2/2f/Logo_Begriffskl%C3%A4rung.png/38px-Logo_Begriffskl%C3%A4rung.png 1.5x, /mediawiki/images/2/2f/Logo_Begriffskl%C3%A4rung.png 2x" /></a>
+</td>
+<td valign="top">Dieser Artikel Dieser Artikel befasst sich mit dem <a href="/wiki/Zyklus" title="Zyklus" class="mw-redirect">Zyklus</a>. Für weitere Bedeutungen, siehe: <a href="/wiki/Die_Dritte_Macht_(Begriffskl%C3%A4rung)" title="Die Dritte Macht (Begriffsklärung)">Die Dritte Macht (Begriffsklärung)</a>.
+</td></tr></table>
+</div><br />
+<div style="border:1px solid #fff; padding:3px; !important; background-color: #fff; clear:right; float:left; border-width: .5em 1.2em .8em 0em;"><div id="toc" class="toc"><div id="toctitle"><h2>Inhaltsverzeichnis</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Zitat_K._H._Scheer"><span class="tocnumber">1</span> <span class="toctext">Zitat K. H. Scheer</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Handlung"><span class="tocnumber">2</span> <span class="toctext">Handlung</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Die_Dritte_Macht"><span class="tocnumber">2.1</span> <span class="toctext">Die Dritte Macht</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Invasion_im_Wega-System"><span class="tocnumber">2.2</span> <span class="toctext">Invasion im Wega-System</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Das_Galaktische_R.C3.A4tsel"><span class="tocnumber">2.3</span> <span class="toctext">Das Galaktische Rätsel</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Ostblock.2C_Venus_und_der_Overhead"><span class="tocnumber">2.4</span> <span class="toctext">Ostblock, Venus und der Overhead</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Die_Galaktischen_H.C3.A4ndler"><span class="tocnumber">2.5</span> <span class="toctext">Die Galaktischen Händler</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Statistik"><span class="tocnumber">3</span> <span class="toctext">Statistik</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Weiterf.C3.BChrende_Links"><span class="tocnumber">4</span> <span class="toctext">Weiterführende Links</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Wissenswertes"><span class="tocnumber">5</span> <span class="toctext">Wissenswertes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Die_Hefte_des_Zyklus_im_Einzelnen"><span class="tocnumber">6</span> <span class="toctext">Die Hefte des Zyklus im Einzelnen</span></a></li>
+</ul>
+</div>
+
+</div>
+<h2><span class="mw-headline" id="Zitat_K._H._Scheer">Zitat K. H. Scheer</span></h2>
+<p><i>[...]&#160;»Wieder in Friedrichsdorf angekommen, begann ich mit der Niederschrift des ersten Bandes der PR-Serie. [...] Das Frühjahr 1961 war angebrochen. Mit ihm der Kalte Krieg zwischen Ost und West. Nie war die Lage so angespannt gewesen.«&#160;[...] <small>(<a href="/wiki/Quelle:PRWSB" title="Quelle:PRWSB" class="mw-redirect">Werkstattband</a>)</small></i>
+</p>
+<h2><span class="mw-headline" id="Handlung">Handlung</span></h2>
+<h3><span class="mw-headline" id="Die_Dritte_Macht">Die Dritte Macht</span></h3>
+<p>Am 19.&#160;Juni <a href="/wiki/1971" title="1971">1971</a> startet <a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Major" title="Major">Major</a> der <a href="/wiki/U.S._Space_Force" title="U.S. Space Force" class="mw-redirect">U.S. Space Force</a>, zusammen mit <a href="/wiki/Captain" title="Captain">Captain</a> <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Leutnant" title="Leutnant">Leutnant</a> Dr.&#160;<a href="/wiki/Eric_Manoli" title="Eric Manoli">Eric Manoli</a> und Captain <a href="/wiki/Clark_G._Flipper" title="Clark G. Flipper">Clark G.&#160;Flipper</a> mit der <a href="/wiki/STARDUST" title="STARDUST">STARDUST</a> zur ersten bemannten <a href="/wiki/Luna" title="Luna">Mond</a>-Landung. Ein Störsignal sorgt dafür, dass das <a href="/wiki/Raumschiff" title="Raumschiff">Raumschiff</a> auf der erdabgewandten Seite des Mondes notlanden muss und den Kontakt zur Bodenstation verliert. Rhodan und Bull suchen mit einem Panzerfahrzeug nach der Quelle des Störsignals und stoßen dabei auf ein gestrandetes <a href="/wiki/AETRON" title="AETRON">außerirdisches Raumschiff</a>. An Bord des etwa 500&#160;Meter durchmessenden <a href="/wiki/Kugelraumer" title="Kugelraumer">Kugelraumers</a> treffen die beiden <a href="/wiki/Astronaut" title="Astronaut">Astronauten</a> auf die <a href="/wiki/Kommandant" title="Kommandant" class="mw-redirect">Kommandantin</a> <a href="/wiki/Thora_da_Zoltral" title="Thora da Zoltral">Thora</a> und den Wissenschaftler <a href="/wiki/Crest_da_Zoltral" title="Crest da Zoltral">Crest</a>. Die menschenähnlichen Außerirdischen stammen aus dem Volk der <a href="/wiki/Arkoniden" title="Arkoniden">Arkoniden</a>, das seit Jahrtausenden das <a href="/wiki/Gro%C3%9Fes_Imperium" title="Großes Imperium">Große Imperium</a> in der <a href="/wiki/Milchstra%C3%9Fe" title="Milchstraße">Milchstraße</a> beherrscht. Allerdings sind die meisten Arkoniden degeneriert, so dass das Imperium zerfällt. Bei der Suche nach dem&#160;»<a href="/wiki/Wanderer" title="Wanderer">Planeten des Ewigen Lebens</a>«&#160;ist der Forschungskreuzer vor vier Monaten auf dem Mond abgestürzt und kann aufgrund der Lethargie der übrigen Besatzung nicht wieder startbereit gemacht werden. Crest leidet zudem an einer Krankheit, die Dr.&#160;Manoli als Leukämie identifiziert. Da dort die Heilung Crests mit einem <a href="/wiki/Anti-Leuk%C3%A4mie-Serum" title="Anti-Leukämie-Serum">Anti-Leukämie-Serum</a> möglich ist, fliegt die STARDUST mit der Einwilligung Thoras mit dem Wissenschaftler und einigen arkonidischen Gerätschaften an Bord zurück zur <a href="/wiki/Erde" title="Erde" class="mw-redirect">Erde</a>. Rhodan landet das Schiff jedoch nicht wieder in <a href="/wiki/Nevada_Fields" title="Nevada Fields">Nevada Fields</a> in den <a href="/wiki/USA" title="USA">USA</a>, sondern mitten in der Wüste <a href="/wiki/Gobi_(W%C3%BCste)" title="Gobi (Wüste)">Gobi</a>, um zu verhindern, dass Crest und die überlegene Technologie der Arkoniden in die Hände einer der irdischen Machtblöcke fällt. Er plant die Etablierung einer neutralen&#160;»<a href="/wiki/Dritte_Macht" title="Dritte Macht">Dritten Macht</a>«. <small>(<a href="/wiki/Quelle:PR1" title="Quelle:PR1" class="mw-redirect">PR&#160;1</a>)</small>
+</p><p>Die STARDUST wird an ihrem Landeplatz durch einen arkonidischen <a href="/wiki/Energieschirm" title="Energieschirm" class="mw-redirect">Energieschirm</a> geschützt. Die Rückkehr des Schiffes führt zu politischen Verwicklungen. Während die <a href="/wiki/Asiatische_F%C3%B6deration" title="Asiatische Föderation">Asiatische Föderation</a> und der <a href="/wiki/Ostblock" title="Ostblock">Ostblock</a> hinter der Landung in der Wüste Gobi die Errichtung eines <a href="/wiki/Westblock" title="Westblock">westlichen</a> Spionagestützpunktes vermuten, geht der Westblock von einem Überlaufen der STARDUST-Besatzung aus. In einem offenen Funkgespräch erläutert Rhodan die wahren Hintergründe der Landung in der Wüste Gobi. Die politische Situation eskaliert jedoch trotzdem, und alle Machtblöcke starten ihre <a href="/wiki/Atomrakete" title="Atomrakete">Atomraketen</a>. Ein von Thora vom Mond aus errichtetes <a href="/wiki/Anti-Neutronenfeld" title="Anti-Neutronenfeld" class="mw-redirect">Anti-Neutronenfeld</a> verhindert allerdings die Explosion der Atomsprengköpfe. In der Folge agieren die Machtblöcke gemeinsam gegen die Dritte Macht, und die Energiekuppel wird mit Trommelfeuer belegt. Währenddessen beginnt die Behandlung Crests mit dem Anti-Leukämie-Serum, mit dem, nach einigen Komplikationen, der Arkonide geheilt werden kann. Als der Energieschirm durch den Dauerbeschuss an seine Grenzen gerät, startet Thora zur Unterstützung mit einem <a href="/wiki/Beiboot" title="Beiboot">Beiboot</a> vom Mond und schlägt die angreifenden Truppen zurück. Zur gleichen Zeit gelangen unbemerkt drei Raketen der Machtblöcke zum Mond und können mit <a href="/wiki/Fusionsbombe" title="Fusionsbombe">Meso-Katalyse-Bomben</a>, gegen die das Anti-Neutronenfeld wirkungslos ist, den arkonidischen Forschungskreuzer vernichten. <small>(<a href="/wiki/Quelle:PR2" title="Quelle:PR2" class="mw-redirect">PR&#160;2</a>, <a href="/wiki/Quelle:PR3" title="Quelle:PR3" class="mw-redirect">PR&#160;3</a>)</small>
+</p><p>Mit der Energie des arkonidischen Beibootes wird die Energiekuppel stabilisiert und erweitert. Rhodan beabsichtigt, den Stützpunkt möglichst schnell auszubauen und ein Raumschiff zu bauen. Damit soll Crest und Thora die Rückkehr nach <a href="/wiki/Arkon" title="Arkon">Arkon</a> ermöglicht werden, da dies mit dem Beiboot nicht möglich ist. Die Machtblöcke versuchen, die Dritte Macht durch die Zündung einer Wasserstoffbombe zu vernichten, die sie in einem Schacht unter die STARDUST bringen. Gewarnt durch den <a href="/wiki/Teleporter" title="Teleporter">Teleporter</a> <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, kann der Schacht mit einem <a href="/wiki/Brennpunktstrahler" title="Brennpunktstrahler">Brennpunktstrahler</a> rechtzeitig zerschmolzen werden. Neben Kakuta tauchen in der Folgezeit weitere <a href="/wiki/Mutant" title="Mutant">Mutanten</a> mit <a href="/wiki/Paraf%C3%A4higkeit" title="Parafähigkeit">Parafähigkeiten</a> auf, die sich Rhodan nach und nach anschließen und schließlich das <a href="/wiki/Geheimes_Mutantenkorps" title="Geheimes Mutantenkorps" class="mw-redirect">Geheime Mutantenkorps</a> bilden. Auch hat die Dritte Macht mittlerweile viele Sympathisanten in der Welt, wie Rhodan feststellt, als er die Energiekuppel zu geheimen Verhandlungen mit verschiedenen Firmen zur Beschaffung von Arbeitskräften und Baumaterialien verlässt. Wenig später unterzieht Crest gegen den Willen Thoras Rhodan und Bull in mehreren Sitzungen einer <a href="/wiki/Hypnoschulung" title="Hypnoschulung">Hypnoschulung</a> unter dem <a href="/wiki/Indoktrinator" title="Indoktrinator">Indoktrinator</a>, wodurch die beiden <a href="/wiki/Terraner" title="Terraner">Terraner</a> das Wissen und die geistigen Fähigkeiten der Arkoniden erhalten. Unterdessen stellt Thora fest, dass der <a href="/wiki/Hypersender" title="Hypersender" class="mw-redirect">Hypersender</a> des Wracks auf dem Mond ein automatisches Notsignal an den nächstgelegenen arkonidischen <a href="/wiki/Robot" title="Robot" class="mw-redirect">Robot</a>-Stützpunkt auf <a href="/wiki/Myra_IV" title="Myra IV">Myra IV</a> sendet. Ein wenige Tage später auftauchendes <a href="/wiki/Spindelschiff_(Fantan-Leute)" title="Spindelschiff (Fantan-Leute)">spindelförmiges Raumschiff</a> der <a href="/wiki/Fantan-Leute" title="Fantan-Leute">Fantan-Leute</a>, die offenbar den Myra IV-Stützpunkt übernommen haben, kann mit dem arkonidischen Beiboot vernichtet werden. Dies überzeugt die Machtblöcke, dass die Dritte Macht ihre überlegenen Mittel zum Wohl der <a href="/wiki/Menschheit" title="Menschheit">Menschheit</a> einsetzt. Sie erkennen nun die Dritte Macht offiziell an und beenden alle Feindseligkeiten und Embargos. <small>(<a href="/wiki/Quelle:PR4" title="Quelle:PR4" class="mw-redirect">PR&#160;4</a>&#160;– <a href="/wiki/Quelle:PR6" title="Quelle:PR6" class="mw-redirect">PR&#160;6</a>)</small>
+</p><p>Mit der Hilfe des Finanzgenies <a href="/wiki/Homer_G._Adams" title="Homer G. Adams" class="mw-redirect">Homer G.&#160;Adams</a> wird die <a href="/wiki/General_Cosmic_Company" title="General Cosmic Company">General Cosmic Company</a> (GCC) aufgebaut, mit der die Dritte Macht sich finanzielle Mittel generiert, um benötigte Materialen zu beschaffen, aber auch um das Gebiet 50&#160;Kilometer um die STARDUST von der Asiatischen Förderation offiziell zu erwerben. Gemeinsam mit den Machtblöcken initiiert die GCC den Bau einer irdischen <a href="/wiki/Raumflotte" title="Raumflotte" class="mw-redirect">Raumflotte</a>, woraufhin in der Folgezeit an vielen Orten entsprechende Produktionsstätten entstehen. Nachdem sich Hinweise auf eine erneute Invasion aus dem All verdichten, kann ein <a href="/wiki/Ovalschiff" title="Ovalschiff" class="mw-redirect">Ovalschiff</a> der <a href="/wiki/IV" title="IV" class="mw-redirect">IVs</a> genannten <a href="/wiki/Individual-Verformer" title="Individual-Verformer">Individual-Verformer</a> auf der Mondbahn <a href="/wiki/Ortung" title="Ortung">geortet</a> und wenig später vernichtet werden. Im Februar <a href="/wiki/1972" title="1972">1972</a> sind die IVs jedoch wieder auf der Erde gelandet und haben mit Hilfe ihrer Fähigkeiten verschiedene Menschen in wichtigen Positionen geistig übernommen. Dem Mutantenkorps gelingt es, die Invasion zurückzuschlagen. Auch ein zweiter Invasionsversuch einige Monate später schlägt fehl, so dass sich die IVs schließlich aus dem <a href="/wiki/Sol" title="Sol">Sonnensystem</a> zurückziehen. Zur Errichtung eines Stützpunktes bricht Rhodan im Mai 1972 mit dem inzwischen <a href="/wiki/GOOD_HOPE" title="GOOD HOPE">GOOD HOPE</a> getauften arkonidischen Beiboot zur <a href="/wiki/Venus" title="Venus">Venus</a> auf. Dort entdeckt die Expedition eine alte Station, die von einer großen <a href="/wiki/Positronik" title="Positronik">Positronik</a> gesteuert wird. Es stellt sich heraus, dass der Stützpunkt vor etwa 10.000&#160;Jahren von arkonidischen Siedlern errichtet wurde, die in Zusammenhang mit dem sagenhaften Kontinent <a href="/wiki/Atlantis_(Kontinent)" title="Atlantis (Kontinent)">Atlantis</a> zu stehen scheinen. Rhodan wird als Kommandant der seit etwa 8000&#160;Jahren leerstehende Basis anerkannt, die vielfältige Materialien und eine Vielzahl von Robotern eingelagert hat, die wertvoll für den weiteren Ausbau der Dritten Macht sind. In den Hangars des Stützpunktes befinden sich zudem sechs <a href="/wiki/Raumj%C3%A4ger" title="Raumjäger">Raumjäger</a>, jedoch kein <a href="/wiki/Transitionstriebwerk" title="Transitionstriebwerk">fernflugtaugliches</a> Raumschiff. <small>(<a href="/wiki/Quelle:PR6" title="Quelle:PR6" class="mw-redirect">PR&#160;6</a>&#160;– <a href="/wiki/Quelle:PR9" title="Quelle:PR9" class="mw-redirect">PR&#160;9</a>)</small>
+</p>
+<h3><span class="mw-headline" id="Invasion_im_Wega-System">Invasion im Wega-System</span></h3>
+<p>Im Mai <a href="/wiki/1975" title="1975">1975</a> ist aus dem Stützpunkt der <a href="/wiki/Dritte_Macht" title="Dritte Macht">Dritten Macht</a> in der Wüste <a href="/wiki/Gobi_(W%C3%BCste)" title="Gobi (Wüste)">Gobi</a> die Stadt <a href="/wiki/Galakto-City" title="Galakto-City" class="mw-redirect">Galakto-City</a> mit 230.000&#160;Einwohnern entstanden. Die auf <a href="/wiki/Pluto" title="Pluto">Pluto</a> stationierten <a href="/wiki/Strukturtaster" title="Strukturtaster">Strukturtaster</a> melden im nur 27&#160;<a href="/wiki/Lichtjahr" title="Lichtjahr">Lichtjahre</a> entfernten <a href="/wiki/Wega" title="Wega">Wega</a>-System das Erscheinen einer großen <a href="/wiki/Flotte" title="Flotte">Flotte</a>. Da <a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a> vermutet, dass dies Invasoren sein könnten, die dem Notsignal des <a href="/wiki/AETRON" title="AETRON">zerstörten Forschungskreuzers</a> auf dem <a href="/wiki/Luna" title="Luna">Mond</a> gefolgt sind und damit eigentlich die Erde zum Ziel hätten, startet er mit der <a href="/wiki/GOOD_HOPE" title="GOOD HOPE">GOOD HOPE</a> zum Wega-System. Die Expedition findet sich inmitten einer Raumschlacht zwischen den unterlegenen <a href="/wiki/Humanoide" title="Humanoide">humanoiden</a> <a href="/wiki/Ferronen" title="Ferronen">Ferronen</a> vom achten <a href="/wiki/Planet" title="Planet">Planeten</a> <a href="/wiki/Ferrol" title="Ferrol">Ferrol</a> und den angreifenden <a href="/wiki/Echsenwesen" title="Echsenwesen" class="mw-redirect">echsenartigen</a> <a href="/wiki/Topsider" title="Topsider">Topsider</a> wieder. Die GOOD HOPE unterstützt die Verteidiger erfolgreich, bis ein 800-Meter-<a href="/wiki/Kugelraumer" title="Kugelraumer">Kugelraumer</a> erscheint, das die Topsider den <a href="/wiki/Arkoniden" title="Arkoniden">Arkoniden</a> abgenommen haben. Die Echsenwesen gewinnen die Schlacht, und die GOOD HOPE wird schwer beschädigt, so dass sie auf dem neunten Planeten <a href="/wiki/Rofus" title="Rofus">Rofus</a> notlanden muss. Dort trifft Rhodan mit dem geflüchteten <a href="/wiki/Thort" title="Thort">Thort</a> zusammen, dem Herrscher der Ferronen. Dieser ermöglicht eine <a href="/wiki/Transmitter" title="Transmitter">Transmitterverbindung</a> nach Ferrol. Einer Gruppe um Rhodan gelingt es, bis in die Hauptstadt <a href="/wiki/Thorta" title="Thorta" class="mw-redirect">Thorta</a> vorzudringen und den Topsidern mit der Hilfe von <a href="/wiki/Psychostrahler" title="Psychostrahler">Psychostrahlern</a> und des massiven Einsatzes der <a href="/wiki/Mutant" title="Mutant">Mutanten</a> das Schlachtschiff abzunehmen. Rhodan fliegt das nunmehr <a href="/wiki/STARDUST_II" title="STARDUST II">STARDUST&#160;II</a> genannte Schiff im Juli 1975 zur <a href="/wiki/Erde" title="Erde" class="mw-redirect">Erde</a>, um es komplett zu bemannen. <small>(<a href="/wiki/Quelle:PR10" title="Quelle:PR10" class="mw-redirect">PR&#160;10</a>&#160;– <a href="/wiki/Quelle:PR12" title="Quelle:PR12" class="mw-redirect">PR&#160;12</a>)</small>
+</p><p>Nach der Rückkehr der STARDUST&#160;II beginnen die Topsider einen Angriff auf Rofus, der jedoch abgewehrt werden kann. Im Gegenzug schlagen die Mutanten auf Ferrol immer wieder zu und verwirren die Invasoren durch den Einsatz ihrer <a href="/wiki/Paragabe" title="Paragabe" class="mw-redirect">Paragaben</a>. Als es während der Ankunft einer Delegation des <a href="/wiki/Despot" title="Despot">Despoten</a> von <a href="/wiki/Topsid" title="Topsid">Topsid</a> wiederum zahlreiche Aktionen der Mutanten stattfinden, geraten die Topsider in Panik, verlassen Ferrol und fliegen zum <a href="/wiki/Wega_XL" title="Wega XL" class="mw-redirect">40.&#160;Wega-Planeten</a>, wo sie Stellung auf dessen sechs <a href="/wiki/Mond" title="Mond">Monden</a> beziehen. Um die Echsenwesen endgültig aus dem Wega-System zu vertreiben, werden ihnen gefälschte Unterlagen über die vermeidliche Herkunft der als Kolonial-Arkoniden auftretenden <a href="/wiki/Terraner" title="Terraner">Terraner</a> aus dem <a href="/wiki/Capella" title="Capella">Capella</a>-System zugespielt. Durch die gezielte Beeinflussung von Topsidern und den Empfang eines fingierten <a href="/wiki/Hyperfunk" title="Hyperfunk">Hyperfunkspruches</a> aus dem Capella-System werden diese Fehlinformationen untermauert. Da die Topsider durch den Funkspruch davon ausgehen müssen, dass eine große Flotte der Kolonial-Arkoniden ins Wega-System unterwegs ist, <a href="/wiki/Transition" title="Transition" class="mw-redirect">transitieren</a> sie ihrerseits mit sämtlichen Schiffen ins vermeintlich entblößte Capella-System. Zum Entsetzen der Terraner hat Crest jedoch die zugespielten Daten so berechnet, dass die Topsider direkt in der <a href="/wiki/Sonne" title="Sonne" class="mw-redirect">Sonne</a> Capella rematerialisieren und damit vernichtet werden. <small>(<a href="/wiki/Quelle:PR12" title="Quelle:PR12" class="mw-redirect">PR&#160;12</a>, <a href="/wiki/Quelle:PR13" title="Quelle:PR13" class="mw-redirect">PR&#160;13</a>)</small>
+</p>
+<h3><span class="mw-headline" id="Das_Galaktische_R.C3.A4tsel">Das Galaktische Rätsel</span></h3>
+<p>Die <a href="/wiki/Ferronen" title="Ferronen">Ferronen</a> sind nicht zu <a href="/wiki/F%C3%BCnfdimensional" title="Fünfdimensional" class="mw-redirect">fünfdimensionalem</a> Denken fähig, verfügen jedoch über auf fünfdimensionaler Basis arbeitende <a href="/wiki/Materietransmitter" title="Materietransmitter" class="mw-redirect">Materietransmitter</a>. Es stellt sich heraus, dass sie die Geräte von <i><a href="/wiki/Wesen,_die_l%C3%A4nger_als_die_Sonne_leben" title="Wesen, die länger als die Sonne leben">Wesen, die länger als die Sonne leben</a></i> als Dank für ihre Hilfe nach einer Notlandung auf <a href="/wiki/Ferrol" title="Ferrol">Ferrol</a> erhalten haben. Neben den Transmittern selbst hinterließen die Fremden die Konstruktionspläne der Geräte, die jedoch in einer <a href="/wiki/Zeitgruft" title="Zeitgruft" class="mw-redirect">Gruft</a> unter dem <a href="/wiki/Roter_Palast_(Ferrol)" title="Roter Palast (Ferrol)" class="mw-redirect">Roten Palast</a>, durch ein fünfdimensionales Feld  geschützt und damit für die Ferronen unzugänglich, verborgen liegen. <a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a> glaubt an eine Verbindung zum&#160;»<a href="/wiki/Wanderer" title="Wanderer">Planeten des Ewigen Lebens</a>«&#160;und den Beginn eines <a href="/wiki/Galaktisches_R%C3%A4tsel" title="Galaktisches Rätsel">Galaktischen Rätsels</a>. Mit Hilfe des <a href="/wiki/Mutantenkorps" title="Mutantenkorps">Mutantenkorps</a> und der <a href="/wiki/Positronik" title="Positronik">Bordpositronik</a> der <a href="/wiki/STARDUST_II" title="STARDUST II">STARDUST&#160;II</a> gelingt das Öffnen der Zeitgruft und die Bergung der Konstruktionspläne. <small>(<a href="/wiki/Quelle:PR10" title="Quelle:PR10" class="mw-redirect">PR&#160;10</a>, <a href="/wiki/Quelle:PR12" title="Quelle:PR12" class="mw-redirect">PR&#160;12</a>)</small>
+</p><p>Neben den Unterlagen und diversen Gegenständen befindet sich auch ein Materietransmitter in der Zeitgruft. Mit diesem gelangen Rhodan und einige Begleiter in die&#160;»<a href="/wiki/Zentrale_der_tausend_Aufgaben" title="Zentrale der tausend Aufgaben" class="mw-redirect">Zentrale der tausend Aufgaben</a>«. Nachdem die Gruppe die dortigen Herausforderungen überwunden hat, können sie mit einem <a href="/wiki/Fiktivtransmitter" title="Fiktivtransmitter">Fiktivtransmitter</a> in die Zeitgruft zurückkehren. Dort erhalten sie eine Kapsel mit beschrifteten Folien, die von der Positronik entschlüsselt werden können. In den Unterlagen wird nach einer Person gefragt, die sich als der <a href="/wiki/Arkoniden" title="Arkoniden">Arkonide</a> <a href="/wiki/Kerlon" title="Kerlon">Kerlon</a> entpuppt, der vor etwa 10.000&#160;Jahren das <a href="/wiki/Wega" title="Wega">Wega</a>- und das <a href="/wiki/Sol" title="Sol">Solsystem</a> besuchte. Zurück in der Zeitgruft werden Rhodan und seine Begleiter durch einen <a href="/wiki/Zeitumformer" title="Zeitumformer">Zeitumformer</a> in die Vergangenheit Ferrols versetzt, wo sie auf eine ferronische Kultur, vergleichbar mit der des <a href="/wiki/Terra" title="Terra">irdischen</a> Mittelalters, und Kerlon treffen. Dem Arkoniden können sie eine Metallrolle entwenden, die sich nach der Rückkehr in die Gegenwart öffnet und einen Hinweis auf <a href="/wiki/Gol" title="Gol">Gol</a>, dem 14.&#160;<a href="/wiki/Planet" title="Planet">Planeten</a> des Wega-Systems, enthält. Dort ist ein Fiktivtransmitter verborgen, der die STARDUST&#160;II zum 2400&#160;<a href="/wiki/Lichtjahr" title="Lichtjahr">Lichtjahre</a> entfernten Planeten <a href="/wiki/Tramp" title="Tramp">Tramp</a> versetzt, auf dem die <a href="/wiki/Telekinet" title="Telekinet">telekinetisch</a> begabten, mit einem ausgeprägten Spieltrieb ausgestatteten <a href="/wiki/Mausbiber" title="Mausbiber" class="mw-redirect">Mausbiber</a> leben. In einer Höhle dieser Wesen stoßen die <a href="/wiki/Terraner" title="Terraner">Terraner</a> auf eine Projektion der <a href="/wiki/Milchstra%C3%9Fe" title="Milchstraße">Milchstraße</a>, aus der die galaktische Position des&#160;»Planeten des Ewigen Lebens«&#160;hervorgeht. Kurz vor dem Abflug schleicht sich ein besonders intelligenter Mausbiber an Bord, der neben der Telekinese auch die <a href="/wiki/Teleportation" title="Teleportation" class="mw-redirect">Teleportation</a> und die <a href="/wiki/Telepath" title="Telepath">Telepathie</a> beherrscht. Er erhält den Namen <a href="/wiki/Gucky" title="Gucky">Gucky</a> und wird Mitglied des Mutantenkorps. <small>(<a href="/wiki/Quelle:PR14" title="Quelle:PR14" class="mw-redirect">PR&#160;14</a>&#160;– <a href="/wiki/Quelle:PR18" title="Quelle:PR18" class="mw-redirect">PR&#160;18</a>)</small>
+</p><p>Die STARDUST&#160;II fliegt Ende Januar <a href="/wiki/1976" title="1976">1976</a> zum <i>Wanderer</i> genannten&#160;»Planeten des Ewigen Lebens«, dessen Bahn an einem ihrer Scheitelpunkte auch durch das Solsystem führt. Die Terraner begegnen dem unsterblichen Geisteswesen <a href="/wiki/ES" title="ES">ES</a>, der Vereinigung von Milliarden <a href="/wiki/Bewusstseinsinhalt" title="Bewusstseinsinhalt">Bewusstseinsinhalten</a> eines Volkes, das seine Körperlichkeit aufgegeben hat. Das Galaktische Rätsel wurde von ES ersonnen, um Würdigen die Unsterblichkeit zu verleihen. Die Arkoniden haben ihre Chance jedoch vor Jahrtausenden vertan, so dass <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a> und <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a> die Unsterblichkeit verweigert wird. Perry Rhodan dagegen erhält Zugang zu sämtlichen Einrichtungen Wanderers einschließlich des <a href="/wiki/Physiotron" title="Physiotron" class="mw-redirect">Physiotrons</a>, mit dessen Hilfe die <a href="/wiki/Relative_Unsterblichkeit" title="Relative Unsterblichkeit">Relative Unsterblichkeit</a> mittels <a href="/wiki/Zelldusche" title="Zelldusche">Zelldusche</a> für eine Dauer von 62&#160;Jahren pro Behandlung erlangt werden kann. Dabei wird ihm und den Terranern von ES eine Frist von 20.000&#160;Jahren gewährt. Nachdem Rhodan und <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a> eine Zelldusche erhalten haben, verlässt die STARDUST&#160;II Wanderer. <small>(<a href="/wiki/Quelle:PR19" title="Quelle:PR19" class="mw-redirect">PR&#160;19</a>)</small>
+</p>
+<h3><span class="mw-headline" id="Ostblock.2C_Venus_und_der_Overhead">Ostblock, Venus und der Overhead</span></h3>
+<p>Nach der Rückkehr der <a href="/wiki/STARDUST_II" title="STARDUST II">STARDUST&#160;II</a> ins <a href="/wiki/Sol" title="Sol">Solsystem</a> muss die Besatzung feststellen, dass inzwischen der 24.&#160;Mai <a href="/wiki/1980" title="1980">1980</a> geschrieben wird, man also etwa viereinhalb Jahre durch den Aufenthalt auf <a href="/wiki/Wanderer" title="Wanderer">Wanderer</a> verloren hat. Die politische Lage auf der <a href="/wiki/Erde" title="Erde" class="mw-redirect">Erde</a> ist angespannt. Während auf der einen Seite der <a href="/wiki/Westblock" title="Westblock">Westblock</a> und die <a href="/wiki/Asiatische_F%C3%B6deration" title="Asiatische Föderation">Asiatische Föderation</a> zusammen an der Bildung einer Weltregierung arbeiten, rüstet der <a href="/wiki/Ostblock" title="Ostblock">Ostblock</a> nach einem Militärputsch auf. <a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodans</a> Stellvertreter <a href="/wiki/Oberst" title="Oberst">Oberst</a> <a href="/wiki/Michael_Freyt" title="Michael Freyt">Freyt</a>, durch einen <a href="/wiki/Hypnoblock" title="Hypnoblock">Hypnoblock</a> von Rhodan in seiner Entscheidungsfähigkeit beschränkt, hat nicht auf die veränderte Lage reagiert. So ist eine <a href="/wiki/Flotte" title="Flotte">Flotte</a> des Ostblocks dabei, ungehindert auf der <a href="/wiki/Venus" title="Venus">Venus</a> zu landen, um die <a href="/wiki/Venus-Festung" title="Venus-Festung" class="mw-redirect">Festung</a> mit der <a href="/wiki/Positronik" title="Positronik">Großpositronik</a> in Besitz zu nehmen. Rhodan kann dies verhindern, und die Besatzungen der fluguntüchtig gemachten Ostblock-Schiffe bleiben als Schiffbrüchige auf der Venus zurück. Anschließend werden auf Terra die Machthaber des Ostblocks abgesetzt und vor den neu gegründeten <a href="/wiki/Weltgerichtshof" title="Weltgerichtshof">Weltgerichtshof</a> gestellt. <small>(<a href="/wiki/Quelle:PR20" title="Quelle:PR20" class="mw-redirect">PR&#160;20</a>, <a href="/wiki/Quelle:PR21" title="Quelle:PR21" class="mw-redirect">PR&#160;21</a>)</small>
+</p><p>Rhodan verweigert den <a href="/wiki/Arkoniden" title="Arkoniden">Arkoniden</a> nach wie vor die Rückkehr nach <a href="/wiki/Arkon" title="Arkon">Arkon</a>, solange die <a href="/wiki/Menschheit" title="Menschheit">Menschheit</a> nicht geeint und damit anfällig ist. Während der Feierlichkeiten zum zehnjährigen Jubiläum der <a href="/wiki/Luna" title="Luna">Mond</a>-Landung am 19.&#160;Juni <a href="/wiki/1981" title="1981">1981</a> entwendet daraufhin <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a> einen <a href="/wiki/Drei-Mann-Zerst%C3%B6rer" title="Drei-Mann-Zerstörer">Drei-Mann-Zerstörer</a>, um auf der Venus in der dortigen Festung Arkon via <a href="/wiki/Hyperfunk" title="Hyperfunk">Hyperfunk</a> zu kontaktieren. Da weder Thoras Zerstörer, noch das Schiff des sie verfolgenden Rhodans über die entsprechenden Identifizierungscodes verfügt, werden beide Raumer von der Venuspositronik abgeschossen. Gleichzeitig wird der <a href="/wiki/Planet" title="Planet">Planet</a> durch die&#160;»<a href="/wiki/Geheimschaltung_X" title="Geheimschaltung X">Geheimschaltung X</a>«&#160;abgeriegelt. Die Arkonidin einerseits sowie Rhodan und seine Begleiter andererseits beginnen einen Marsch durch den Dschungel in Richtung der Festung. Es kommt zu Auseinandersetzungen mit den Schiffbrüchigen des Ostblocks, die inzwischen in mehrere Gruppen zersplittert sind. Rhodan kann schließlich die Venus-Festung erreichen und die Sperre der Positronik aufheben. Die internen Zwistigkeiten werden beseitigt, und die ehemaligen Ostblock-Raumfahrer bleiben als erste Kolonisten mit Unterstützung der <a href="/wiki/Dritte_Macht" title="Dritte Macht">Dritten Macht</a> auf der Venus. <small>(<a href="/wiki/Quelle:PR22" title="Quelle:PR22" class="mw-redirect">PR&#160;22</a>&#160;– <a href="/wiki/Quelle:PR24" title="Quelle:PR24" class="mw-redirect">PR&#160;24</a>)</small>
+</p><p><a href="/wiki/Clifford_Monterny" title="Clifford Monterny" class="mw-redirect">Clifford Monterny</a> ist hochintelligent und ein starker <a href="/wiki/Hypno" title="Hypno">Hypno</a>. Aufgrund seiner herausragenden Fähigkeiten hält er sich für höher entwickelt und neidet dem&#160;»normalen <a href="/wiki/Terraner" title="Terraner">Menschen</a>«&#160;Perry Rhodan den Erfolg, den dieser mit der Dritten Macht hat. Er baut sich daher als&#160;»<a href="/wiki/Overhead" title="Overhead">Overhead</a>«&#160;ab <a href="/wiki/1976" title="1976">1976</a> ein eigenes <a href="/wiki/Mutantenkorps" title="Mutantenkorps">Mutantenkorps</a> auf, dessen Mitglieder er mit seinen <a href="/wiki/Paraf%C3%A4higkeit" title="Parafähigkeit">Parafähigkeiten</a> in seinen Bann zwingt. Im Juli 1981 beginnt er seinen Feldzug gegen Rhodan. Nach diversen Sabotageakten auf industrieller und politischer Ebene und einer vorübergehender Schwächung der <a href="/wiki/GCC" title="GCC" class="mw-redirect">GCC</a> gelingt es der Dritten Macht, die Stützpunkte des Overhead nach und nach ausfindig zu machen. Monterny ist gezwungen, mit einem Drei-Mann-Zerstörer zum <a href="/wiki/Mars" title="Mars">Mars</a> zu fliehen, wo er schließlich durch die <a href="/wiki/Telekinet" title="Telekinet">telekinetische</a> Manipulation seines Zerstörers durch <a href="/wiki/Gucky" title="Gucky">Gucky</a> ums Leben kommt. Die <a href="/wiki/Mutant" title="Mutant">Mutanten</a> des Overhead sind nach dem Tod des Hypnos frei und schließen sich dem Mutantenkorps der Dritten Macht an. <small>(<a href="/wiki/Quelle:PR25" title="Quelle:PR25" class="mw-redirect">PR&#160;25</a>&#160;– <a href="/wiki/Quelle:PR27" title="Quelle:PR27" class="mw-redirect">PR&#160;27</a>)</small>
+</p>
+<h3><span class="mw-headline" id="Die_Galaktischen_H.C3.A4ndler">Die Galaktischen Händler</span></h3>
+<p>Durch einen Notruf des fliehenden <a href="/wiki/Overhead" title="Overhead">Overhead</a> wird die sich in der Nähe aufhaltende <a href="/wiki/ORLA_XI" title="ORLA XI">ORLA&#160;XI</a> des <a href="/wiki/Springer" title="Springer">Springers</a> <a href="/wiki/Orlgans" title="Orlgans">Orlgans</a> auf das <a href="/wiki/Sol" title="Sol">Solsystem</a> aufmerksam. Bei den Springern handelt es sich um aus den <a href="/wiki/Arkoniden" title="Arkoniden">Arkoniden</a> hervorgegangene&#160;»Galaktische Händler«, die seit Jahrtausenden das Handelsmonopol des <a href="/wiki/Gro%C3%9Fes_Imperium" title="Großes Imperium">Großen Imperiums</a> innehaben. Sie sehen ihr Monopol durch das Handelsabkommen zwischen <a href="/wiki/Terra" title="Terra">Terra</a> und <a href="/wiki/Ferrol" title="Ferrol">Ferrol</a> gefährdet und sind sehr an Hinweisen auf die&#160;»<a href="/wiki/Welt_des_Ewigen_Lebens" title="Welt des Ewigen Lebens" class="mw-redirect">Welt des Ewigen Lebens</a>«&#160;interessiert. Von einem Stützpunkt auf dem <a href="/wiki/Saturn" title="Saturn">Saturnmond</a> <a href="/wiki/Titan_(Mond)" title="Titan (Mond)">Titan</a> aus entsenden die Springer <a href="/wiki/Robot" title="Robot" class="mw-redirect">Robotagenten</a> zur <a href="/wiki/Erde" title="Erde" class="mw-redirect">Erde</a>. Durch vielfältige Hinweise auf die Aktivitäten einer außerirdischen Macht aufmerksam gemacht, beauftragt <a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a> den <a href="/wiki/Kadett" title="Kadett">Kadetten</a> <a href="/wiki/Julian_Tifflor" title="Julian Tifflor">Julian Tifflor</a> im Juni <a href="/wiki/1982" title="1982">1982</a> mit einem fingierten geheimen Kurierauftrag. Die Springer fangen den&#160;»kosmischen Lockvogel«&#160;erwartungsgemäß ab und geben sich damit zu erkennen. Im <a href="/wiki/Beta-Albireo" title="Beta-Albireo">Beta-Albireo</a>- und im Solsystem kommt es zu Kampfhandlungen zwischen den <a href="/wiki/Terraner" title="Terraner">Terranern</a> und der <a href="/wiki/Flotte" title="Flotte">Flotte</a> der Springersippe <a href="/wiki/Etztak" title="Etztak">Etztaks</a>, zu der sich Kampfschiffe der <a href="/wiki/%C3%9Cberschwere" title="Überschwere">Überschweren</a>, umweltangepasste Springer, die sich als Söldner verdingen, gesellen. Zwei <a href="/wiki/Fiktivtransmitter" title="Fiktivtransmitter">Fiktivtransmitter</a> vom <a href="/wiki/Planet" title="Planet">Planeten</a> <a href="/wiki/Wanderer" title="Wanderer">Wanderer</a> verhelfen den Terranern zum Sieg. <small>(<a href="/wiki/Quelle:PR28" title="Quelle:PR28" class="mw-redirect">PR&#160;28</a>&#160;– <a href="/wiki/Quelle:PR33" title="Quelle:PR33" class="mw-redirect">PR&#160;33</a>)</small>
+</p><p><br />
+...
+</p><p>Danach gilt es die Erde vor einer Entdeckung durch die <a href="/wiki/Springer" title="Springer">Springer</a> zu schützen. Nach der vorläufigen Abwehr dieser Gefahr stößt Perry Rhodan nach <a href="/wiki/Arkon" title="Arkon">Arkon</a> vor. In der Heimat von <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a> und <a href="/wiki/Thora_da_Zoltral" title="Thora da Zoltral">Thora</a> haben sich die Verhältnisse ebenfalls geändert: ein <a href="/wiki/Robotregent" title="Robotregent">Robotregent</a> hat die Herrschaft übernommen und regiert das <a href="/wiki/Gro%C3%9Fes_Imperium" title="Großes Imperium">Große Imperium</a> mit gnadenloser Härte.
+</p><p>Durch die Abwehr der von den <a href="/wiki/Aras" title="Aras">Aras</a> hervorgerufenen Gefahren macht sich Rhodan zum gleichberechtigten Partner des Regenten. Die Gefahr der Entdeckung der galaktischen Position der Erde wird allerdings immer größer, so dass Rhodan die Vernichtung der Erde und seinen eigenen Tod vortäuscht. Damit wird eine Verschnaufpause erreicht, die zum Aufbau eines eigenen Imperiums benutzt werden soll.
+</p>
+<h2><span class="mw-headline" id="Statistik">Statistik</span></h2>
+<table border="0" cellpadding="5" cellspacing="2">
+<tr>
+<td width="50%" valign="top">
+<ul>
+<li> <a href="/wiki/Ver%C3%B6ffentlichungen_1961" title="Veröffentlichungen 1961">Erstmals erschienen</a>: September 1961 - August 1962
+</li>
+<li> <a href="/wiki/Hauptpersonenstatistik_Die_Dritte_Macht" title="Hauptpersonenstatistik Die Dritte Macht">Hauptpersonenstatistik</a>
+</li>
+<li> <a href="/wiki/Autorenstatistik_der_Perry_Rhodan-Serie" title="Autorenstatistik der Perry Rhodan-Serie">Autorenstatistik</a>  
+<ul>
+<li><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>: 19 
+</li>
+<li><a href="/wiki/Kurt_Mahr" title="Kurt Mahr">Kurt Mahr</a>: 15 
+</li>
+<li><a href="/wiki/K._H._Scheer" title="K. H. Scheer">K. H. Scheer</a>: 8 
+</li>
+<li><a href="/wiki/W._W._Shols" title="W. W. Shols">W. W. Shols</a>: 4 
+</li>
+<li><a href="/wiki/Kurt_Brand" title="Kurt Brand">Kurt Brand</a>: 3
+</li>
+</ul>
+</li>
+</ul>
+</td>
+<td width="0%" valign="top">
+</td>
+<td width="50%" valign="top">
+<ul>
+<li> <a href="/wiki/Titelbildzeichner-Statistik_der_Perry_Rhodan-Serie" title="Titelbildzeichner-Statistik der Perry Rhodan-Serie">Titelbildzeichnerstatistik</a>
+<ul>
+<li> <a href="/wiki/Johnny_Bruck" title="Johnny Bruck">Johnny Bruck</a>: 49
+</li>
+</ul>
+</li>
+<li> <a href="/wiki/Innenillustratoren-Statistik_der_Perry_Rhodan-Serie" title="Innenillustratoren-Statistik der Perry Rhodan-Serie">Innenillustratorenstatistik</a>
+<ul>
+<li> Johnny Bruck: 49 (224 Illustrationen)
+<ul>
+<li> 6 Illustrationen: &#160;6 x 
+</li>
+<li> 5 Illustrationen: 22 x 
+</li>
+<li> 4 Illustrationen: 15 x 
+</li>
+<li> 3 Illustrationen: &#160;6 x 
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</td></tr></table>
+<h2><span class="mw-headline" id="Weiterf.C3.BChrende_Links">Weiterführende Links</span></h2>
+<table border="0" cellpadding="5" cellspacing="2">
+<tr>
+<td width="67%" valign="top">
+<ul>
+<li> <a href="/wiki/Portal_%22Die_Dritte_Macht%22_(Zyklus)" title="Portal &quot;Die Dritte Macht&quot; (Zyklus)">Portal "Die Dritte Macht" (Zyklus)</a>
+</li>
+<li> <a href="/wiki/Die_Dritte_Macht_(Handlungsebenen)" title="Die Dritte Macht (Handlungsebenen)">Die Handlungsebenen des Zyklus</a>
+</li>
+<li> <a href="/wiki/Silberb%C3%A4nde" title="Silberbände">Silberbände</a>:
+<ul>
+<li><a href="/wiki/Quelle:PRHC1" title="Quelle:PRHC1" class="mw-redirect">Band&#160;1 »Die Dritte Macht«</a>
+</li>
+<li><a href="/wiki/Quelle:PRHC2" title="Quelle:PRHC2" class="mw-redirect">Band&#160;2 »Das Mutanten-Korps«</a>
+</li>
+<li><a href="/wiki/Quelle:PRHC3" title="Quelle:PRHC3" class="mw-redirect">Band&#160;3 »Der Unsterbliche«</a>
+</li>
+<li><a href="/wiki/Quelle:PRHC4" title="Quelle:PRHC4" class="mw-redirect">Band&#160;4 »Der kosmische Lockvogel«</a>
+</li>
+<li><a href="/wiki/Quelle:PRHC5" title="Quelle:PRHC5" class="mw-redirect">Band&#160;5 »Vorstoß nach Arkon«</a>
+</li>
+<li><a href="/wiki/Quelle:PRHC6" title="Quelle:PRHC6" class="mw-redirect">Band&#160;6 »Der Robotregent«</a>
+</li>
+<li><a href="/wiki/Quelle:PRHC7" title="Quelle:PRHC7" class="mw-redirect">Band&#160;7 »Atlan«</a> (zum Teil)
+</li>
+</ul>
+</li>
+<li> <a href="/wiki/Leihb%C3%BCcher" title="Leihbücher">Leihbücher</a> Band 1 bis 21
+</li>
+<li> <a href="/wiki/Jubil%C3%A4umsausgabe" title="Jubiläumsausgabe">Jubiläumsausgabe</a> Band 1 bis 7
+</li>
+<li> <a href="/wiki/Perry_Rhodan-Blaub%C3%A4nde" title="Perry Rhodan-Blaubände">Perry Rhodan-Blaubände</a> Band 1 bis 7
+</li>
+<li> <a href="/wiki/Kunstedition_Zsolnay/Penck" title="Kunstedition Zsolnay/Penck">Kunstedition Zsolnay/Penck</a> Band 1 bis 5
+</li>
+<li> <a href="/wiki/Europa-H%C3%B6rspiele_(1980er)" title="Europa-Hörspiele (1980er)">Hörspiele</a> Folge 1 bis 12 (Heft <a href="/wiki/Quelle:PR1" title="Quelle:PR1" class="mw-redirect">1</a> bis <a href="/wiki/Quelle:PR19" title="Quelle:PR19" class="mw-redirect">19</a>)
+</li>
+<li> <a href="/wiki/Silber_Edition" title="Silber Edition">Silber Edition Hörbücher</a> Folge 1 bis 7
+</li>
+<li><a href="/wiki/Planetenromane" title="Planetenromane">Planetenromane</a> passend zum Zyklus:
+<ul>
+<li><a href="/wiki/Quelle:PRTB1" title="Quelle:PRTB1" class="mw-redirect">PR-TB&#160;1 »Planet der Mock«</a>
+</li>
+<li><a href="/wiki/Quelle:PRTB3" title="Quelle:PRTB3" class="mw-redirect">PR-TB&#160;3 »Schatzkammer der Sterne«</a>
+</li>
+<li><a href="/wiki/Quelle:PRTB4" title="Quelle:PRTB4" class="mw-redirect">PR-TB&#160;4 »Sturz in die Ewigkeit«</a>
+</li>
+<li><a href="/wiki/Quelle:PRTB16" title="Quelle:PRTB16" class="mw-redirect">PR-TB&#160;16 »Phantom-Station«</a>
+</li>
+<li><a href="/wiki/Quelle:PRTB17" title="Quelle:PRTB17" class="mw-redirect">PR-TB&#160;17 »Der Flug der Millionäre«</a>
+</li>
+</ul>
+</li>
+<li> <a href="/wiki/Titelbildgalerie_PR_1_-_99" title="Titelbildgalerie PR 1 - 99">Titelbildgalerie</a>
+</li>
+<li> <a href="/wiki/Innenillustrationen_%22Die_Dritte_Macht%22" title="Innenillustrationen &quot;Die Dritte Macht&quot;">Innenillustrationen "Die Dritte Macht"</a>
+</li>
+</ul>
+</td>
+<td width="0%" valign="top">
+</td>
+<td width="33%" valign="top">
+<center><b><a href="/wiki/Heftzusammenfassungen_als_eBooks" title="Heftzusammenfassungen als eBooks">Heftzusammenfassungen<br />als eBook</a></b><br /><img alt="HZF-PR01.jpg" src="/mediawiki/images/thumb/4/48/HZF-PR01.jpg/180px-HZF-PR01.jpg" width="180" height="240" srcset="/mediawiki/images/thumb/4/48/HZF-PR01.jpg/270px-HZF-PR01.jpg 1.5x, /mediawiki/images/4/48/HZF-PR01.jpg 2x" /><br /><a href="/mediawiki/images/d/d6/HZF_PR_0001-0099.epub" class="internal" title="HZF PR 0001-0099.epub">ePub</a> | <a href="/mediawiki/images/d/d8/HZF_PR_0001-0099.mobi" class="internal" title="HZF PR 0001-0099.mobi">Mobi</a></center>
+</td></tr></table>
+<h2><span class="mw-headline" id="Wissenswertes"><a href="/wiki/Wissenswertes" title="Wissenswertes">Wissenswertes</a></span></h2>
+<ul>
+<li> <a href="/wiki/Quelle:PR4" title="Quelle:PR4" class="mw-redirect">Band&#160;4</a>: Die Figur von <a href="/wiki/Ernst_Ellert" title="Ernst Ellert">Ernst Ellert</a> war eine Idee von <a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>, die nicht im Exposé von <a href="/wiki/K._H._Scheer" title="K. H. Scheer">K. H. Scheer</a> vorgesehen war. Es kam zum ersten Konflikt der beiden Autoren, denn laut Scheer gefährdeten die Fähigkeiten von Ellert die weitere Entwicklung der Serie. Deshalb forderte er den baldigen Tod des Helden, doch Darlton ließ Ellert in <a href="/wiki/Quelle:PR7" title="Quelle:PR7" class="mw-redirect">Band&#160;7</a> nur vorerst sterben.
+</li>
+<li> <a href="/wiki/Quelle:PR13" title="Quelle:PR13" class="mw-redirect">Heft&#160;13</a>: Die erste Fassung des Romans von <a href="/wiki/W._W._Shols" title="W. W. Shols">W. W. Shols</a> wurde vom Verlag abgelehnt. <a href="/wiki/K._H._Scheer" title="K. H. Scheer">K. H. Scheer</a> schrieb daraufhin den Roman in einer Eilaktion komplett neu. Die berufliche Belastung von Shols war schon am Start der Serie sehr groß.
+</li>
+<li> <a href="/wiki/Quelle:PR18" title="Quelle:PR18" class="mw-redirect">Heft&#160;18</a>: Gemäß der ursprünglichen Planung sollte auch dieser Roman von Shols geschrieben werden. Er wurde dann kurzfristig an Darlton vergeben. (Wer weiß, ob Gucky von Shols geschildert auch so beliebt geworden wäre?)
+</li>
+<li> <a href="/wiki/Quelle:PR28" title="Quelle:PR28" class="mw-redirect">Heft&#160;28</a>: Tifflors "Mikro-Zellaktivator" wird im <a href="/wiki/Quelle:PRHC4" title="Quelle:PRHC4" class="mw-redirect">Silberband&#160;4</a> zu einem "Mikro-Zellschwingungs-Modulator" umbenannt.
+</li>
+<li> <a href="/wiki/Quelle:PR32" title="Quelle:PR32" class="mw-redirect">Heft&#160;32</a>: Mit den <a href="/wiki/Barkoniden" title="Barkoniden">Barkoniden</a> bringt Darlton ein nicht im Exposé vorgesehenes Volk in die Serie ein, was K. H. Scheer missfiel.
+</li>
+<li> <a href="/wiki/Quelle:PR37" title="Quelle:PR37" class="mw-redirect">Heft&#160;37</a>: Darlton etabliert mit <a href="/wiki/Harno" title="Harno">Harno</a> eine weitere im Exposé nicht vorgesehene, aber sehr beliebte Figur.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Die_Hefte_des_Zyklus_im_Einzelnen">Die Hefte des Zyklus im Einzelnen</span></h2>
+<p>Die Angaben basieren auf den Heften der 1.&#160;Auflage. Bei den <a href="/wiki/Auflagen" title="Auflagen">Nachauflagen</a> können ab und an Abweichungen festgestellt werden.
+</p>
+<table class="perrypedia_std_table">
+<tr>
+<th width="14%"> Nr.<br />Autor
+</th>
+<th width="42%"> <center>Titel<br />Untertitel </center>
+</th>
+<th width="39%"> <center>Hauptpersonen<br />(1.&#160;Auflage)</center>
+</th>
+<th width="5%"> <center><a href="/wiki/Silberb%C3%A4nde" title="Silberbände">Silber-<br />band</a></center>
+</th></tr>
+<tr>
+<td>1<br /><a href="/wiki/K._H._Scheer" title="K. H. Scheer">K.&#160;H.&#160;Scheer</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR1" title="Quelle:PR1" class="mw-redirect">Unternehmen „Stardust“</a><br /><small>Sie kamen aus den Tiefen der Galaxis&#160;- nie hatte <br />man mit ihnen gerechnet ...</small></center>
+</td>
+<td><small> <a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Major Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Captain Reginald Bull</a>, <a href="/wiki/Clark_G._Flipper" title="Clark G. Flipper">Captain Clark G.&#160;Flipper</a>, <a href="/wiki/Eric_Manoli" title="Eric Manoli">Dr.&#160;Eric Manoli</a>, <a href="/wiki/General" title="General">General</a> <a href="/wiki/Lesly_Pounder" title="Lesly Pounder" class="mw-redirect">Lesly Pounder</a>, Dr.&#160;<a href="/wiki/Fleeps" title="Fleeps">Fleeps</a>, <a href="/wiki/Allan_D._Mercant" title="Allan D. Mercant" class="mw-redirect">Allan D.&#160;Mercant</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, Prof. <a href="/wiki/F._Lehmann" title="F. Lehmann">Lehmann</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC1" title="Quelle:PRHC1" class="mw-redirect">1</a></center>
+</td></tr>
+<tr>
+<td>2<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark&#160;Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR2" title="Quelle:PR2" class="mw-redirect">Die dritte Macht</a><br /><small>Die erste Mondexpedition kehrt zurück - mit einem Wissen, das die <br />Welt vor dem Atomkrieg rettet ...</small></center>
+</td>
+<td><small><a href="/wiki/Major" title="Major">Major</a> <a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Captain" title="Captain">Captain</a> <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Captain" title="Captain">Captain</a> <a href="/wiki/Clark_G._Flipper" title="Clark G. Flipper">Clark G.&#160;Flipper</a>, Dr.&#160;<a href="/wiki/Eric_Manoli" title="Eric Manoli">Eric Manoli</a>, <a href="/wiki/General" title="General">General</a> <a href="/wiki/Lesly_Pounder" title="Lesly Pounder" class="mw-redirect">Lesly Pounder</a>, <a href="/wiki/Allan_D._Mercant" title="Allan D. Mercant" class="mw-redirect">Allan D.&#160;Mercant</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, Prof. <a href="/wiki/F._Lehmann" title="F. Lehmann">Lehmann</a>, <a href="/wiki/Major" title="Major">Major</a> <a href="/wiki/Perkins" title="Perkins">Perkins</a>, <a href="/wiki/Marschall" title="Marschall" class="mw-redirect">Marschall</a> <a href="/wiki/Roon" title="Roon">Roon</a>, Dr.&#160;<a href="/wiki/Frank_M._Haggard" title="Frank M. Haggard">Frank M.&#160;Haggard</a>, <a href="/wiki/Albrecht_Klein" title="Albrecht Klein">Klein</a>, <a href="/wiki/Li-Tschai-Tung" title="Li-Tschai-Tung">Li-Tschai-Tung</a>, <a href="/wiki/Peter_Kosnow" title="Peter Kosnow">Peter Kosnow</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC1" title="Quelle:PRHC1" class="mw-redirect">1</a></center>
+</td></tr>
+<tr>
+<td>3<br /><a href="/wiki/K._H._Scheer" title="K. H. Scheer">K. H. Scheer</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR3" title="Quelle:PR3" class="mw-redirect">Die strahlende Kuppel</a><br /><small>Die Kuppel aus reiner Energie trotzt selbst dem schwersten <br />Beschuß – doch die Militärs geben nicht auf ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull genannt „Bully“</a>, Dr.&#160;<a href="/wiki/Eric_Manoli" title="Eric Manoli">Eric Manoli</a>, Dr.&#160;<a href="/wiki/Frank_M._Haggard" title="Frank M. Haggard">Frank M.&#160;Haggard</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Albrecht_Klein" title="Albrecht Klein">Klein</a>, <a href="/wiki/Li-Tschai-Tung" title="Li-Tschai-Tung">Li-Tschai-Tung</a>, <a href="/wiki/Peter_Kosnow" title="Peter Kosnow">Peter Kosnow</a>, <a href="/wiki/Allan_D._Mercant" title="Allan D. Mercant" class="mw-redirect">Allan D.&#160;Mercant</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC1" title="Quelle:PRHC1" class="mw-redirect">1</a></center>
+</td></tr>
+<tr>
+<td>4<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR4" title="Quelle:PR4" class="mw-redirect">Götterdämmerung</a><br /><small>Mutanten verändern das Weltbild – die Zukunft hat begonnen</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull genannt „Bully“</a>, Dr.&#160;<a href="/wiki/Eric_Manoli" title="Eric Manoli">Eric Manoli</a>, Dr.&#160;<a href="/wiki/Frank_M._Haggard" title="Frank M. Haggard">Frank M.&#160;Haggard</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Albrecht_Klein" title="Albrecht Klein">Klein</a>, <a href="/wiki/Li-Tschai-Tung" title="Li-Tschai-Tung">Li-Tschai-Tung</a>, <a href="/wiki/Peter_Kosnow" title="Peter Kosnow">Peter Kosnow</a>, <a href="/wiki/Allan_D._Mercant" title="Allan D. Mercant" class="mw-redirect">Allan D.&#160;Mercant</a>, <a href="/wiki/Iwan_Martinowitsch_Kosselow" title="Iwan Martinowitsch Kosselow">Iwan Martinowitsch Kosselow</a>, <a href="/wiki/Mao-Tsen" title="Mao-Tsen">Mao-Tsen</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC1" title="Quelle:PRHC1" class="mw-redirect">1</a></center>
+</td></tr>
+<tr>
+<td>5<br /><a href="/wiki/Kurt_Mahr" title="Kurt Mahr">Kurt Mahr</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR5" title="Quelle:PR5" class="mw-redirect">Atom-Alarm</a><br /><small>Das fremde Schiff kommt in das Sonnensystem. – Ist es die <br />Vorhut einer großen Flotte?</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Jesse_Morgan" title="Jesse Morgan">Jesse Morgan</a>, <a href="/wiki/Captain" title="Captain">Captain</a> <a href="/wiki/Zimmerman" title="Zimmerman">Zimmerman</a>, <a href="/wiki/Allan_D._Mercant" title="Allan D. Mercant" class="mw-redirect">Allan D.&#160;Mercant</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC1" title="Quelle:PRHC1" class="mw-redirect">1</a></center>
+</td></tr>
+<tr>
+<td>6<br /><a href="/wiki/W._W._Shols" title="W. W. Shols">W. W. Shols</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR6" title="Quelle:PR6" class="mw-redirect">Das Mutanten-Korps</a><br /><small>Er sah unscheinbar aus – und doch stürzte er die Weltwirtschaft <br />in ein Chaos ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull genannt „Bully“</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Homer_G._Adams" title="Homer G. Adams" class="mw-redirect">Homer G.&#160;Adams</a>, <a href="/wiki/Allan_D._Mercant" title="Allan D. Mercant" class="mw-redirect">Allan D.&#160;Mercant</a>, <a href="/wiki/Captain" title="Captain">Captain</a> <a href="/wiki/Zimmerman" title="Zimmerman">Zimmerman</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC2" title="Quelle:PRHC2" class="mw-redirect">2</a></center>
+</td></tr>
+<tr>
+<td>7<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR7" title="Quelle:PR7" class="mw-redirect">Invasion aus dem All</a><br /><small>Sie werden „Individual-Verformer“ genannt – doch hinter <br />diesem harmlosen Namen steht das Grauen ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Homer_G._Adams" title="Homer G. Adams" class="mw-redirect">Homer G.&#160;Adams</a>, <a href="/wiki/Ernst_Ellert" title="Ernst Ellert">Ernst Ellert</a>, <a href="/wiki/Allan_D._Mercant" title="Allan D. Mercant" class="mw-redirect">Allan D.&#160;Mercant</a>, <a href="/wiki/Sammy_Derring" title="Sammy Derring">Sammy Derring</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC2" title="Quelle:PRHC2" class="mw-redirect">2</a></center>
+</td></tr>
+<tr>
+<td>8<br /><a href="/wiki/Kurt_Mahr" title="Kurt Mahr">Kurt Mahr</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR8" title="Quelle:PR8" class="mw-redirect">Die Venusbasis</a><br /><small>Sie erreichten die Venus und stießen auf ein Geheimnis, <br />das älter als die Menschheit war ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull genannt „Bully“</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Anne_Sloane" title="Anne Sloane">Anne Sloane</a>, <a href="/wiki/Michael_Freyt" title="Michael Freyt">Michael Freyt</a>, <a href="/wiki/Conrad_Deringhouse" title="Conrad Deringhouse">Conrad Deringhouse</a>, <a href="/wiki/Rod_Nyssen" title="Rod Nyssen">Rod Nyssen</a>, <a href="/wiki/Venuspositronik" title="Venuspositronik">Der „Kommandant“</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC2" title="Quelle:PRHC2" class="mw-redirect">2</a></center>
+</td></tr>
+<tr>
+<td>9<br /><a href="/wiki/W._W._Shols" title="W. W. Shols">W. W. Shols</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR9" title="Quelle:PR9" class="mw-redirect">Hilfe für die Erde</a><br /><small>Alarm auf der Venusbasis! Die IVs überfallen die Erde – <br />sie beginnen ihre Schreckensherrschaft</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Michael_Freyt" title="Michael Freyt">Freyt</a>, <a href="/wiki/Rod_Nyssen" title="Rod Nyssen">Nyssen</a>, <a href="/wiki/Conrad_Deringhouse" title="Conrad Deringhouse">Deringhouse</a>, <a href="/wiki/Homer_G._Adams" title="Homer G. Adams" class="mw-redirect">Homer G.&#160;Adams</a>, <a href="/wiki/Clive_Cannon" title="Clive Cannon">Clive Cannon</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a></small>
+</td>
+<td><center>--</center>
+</td></tr>
+<tr>
+<td>10<br /><a href="/wiki/K._H._Scheer" title="K. H. Scheer">K. H. Scheer</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR10" title="Quelle:PR10" class="mw-redirect">Raumschlacht im Wega-Sektor</a><br /><small>Die Strukturtaster melden das Auftauchen einer großen Flotte – <br />das ist der Anfang eines interstellaren Krieges </small> </center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Betty_Toufry" title="Betty Toufry">Betty Toufry</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a>, <a href="/wiki/Chaktor" title="Chaktor">Chaktor</a>, <a href="/wiki/Thort" title="Thort">Thort</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC2" title="Quelle:PRHC2" class="mw-redirect">2</a></center>
+</td></tr>
+<tr>
+<td>11<br /><a href="/wiki/Kurt_Mahr" title="Kurt Mahr">Kurt Mahr</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR11" title="Quelle:PR11" class="mw-redirect">Mutanten im Einsatz</a><br /><small>Die GOOD HOPE ist nur noch ein Wrack. Wie können sie <br />jemals zur Erde zurückkehren?</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Betty_Toufry" title="Betty Toufry">Betty Toufry</a>, <a href="/wiki/Ralf_Marten" title="Ralf Marten">Ralf Marten</a>, <a href="/wiki/Wuriu_Sengu" title="Wuriu Sengu">Wuriu Sengu</a>, <a href="/wiki/Kek%C3%A9ler" title="Kekéler">Kekéler</a>, <a href="/wiki/Chrekt-Orn" title="Chrekt-Orn">Chrekt-Orn</a>, <a href="/wiki/Trker-Hon" title="Trker-Hon">Trker-Hon</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC2" title="Quelle:PRHC2" class="mw-redirect">2</a></center>
+</td></tr>
+<tr>
+<td>12<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR12" title="Quelle:PR12" class="mw-redirect">Das Geheimnis der Zeitgruft</a><br /><small>Die Zeitsperre bewahrt eines der größten Geheimnisse <br />des Universums ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Wuriu_Sengu" title="Wuriu Sengu">Wuriu Sengu</a>, <a href="/wiki/Andr%C3%A9_Noir" title="André Noir">André Noir</a>, <a href="/wiki/Ras_Tschubai" title="Ras Tschubai">Ras Tschubai</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Lossosh%C3%A9r" title="Lossoshér">Lossoshér</a>, <a href="/wiki/Chrekt-Orn" title="Chrekt-Orn">Chrekt-Orn</a>, <a href="/wiki/Trker-Hon" title="Trker-Hon">Trker-Hon</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC3" title="Quelle:PRHC3" class="mw-redirect">3</a></center>
+</td></tr>
+<tr>
+<td>13<br /><a href="/wiki/K._H._Scheer" title="K. H. Scheer">K. H. Scheer</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR13" title="Quelle:PR13" class="mw-redirect">Die Festung der sechs Monde</a><br /><small>Die Topsider halten ihre Festung für uneinnehmbar – <br />aber sie haben nicht mit den Mutanten gerechnet ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Calverman" title="Calverman">Sergeant Calverman</a>, <a href="/wiki/Thort" title="Thort">Thort</a>, <a href="/wiki/Chaktor" title="Chaktor">Chaktor</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Ishy_Matsu" title="Ishy Matsu">Ishy Matsu</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a>, <a href="/wiki/Andr%C3%A9_Noir" title="André Noir">André Noir</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC3" title="Quelle:PRHC3" class="mw-redirect">3</a></center>
+</td></tr>
+<tr>
+<td>14<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR14" title="Quelle:PR14" class="mw-redirect">Das galaktische Rätsel</a><br /><small>Perry Rhodan sucht den Planeten der Unsterblichkeit – <br />und er findet eine Spur, die in die Ewigkeit führt ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull genannt Bully</a>, <a href="/wiki/Thora_da_Zoltral" title="Thora da Zoltral">Thora</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Lossosh%C3%A9r" title="Lossoshér">Lossoshér</a>, <a href="/wiki/Groll" title="Groll">Sergeant Groll</a>, <a href="/wiki/Anne_Sloane" title="Anne Sloane">Anne Sloane</a>, <a href="/wiki/Betty_Toufry" title="Betty Toufry">Betty Toufry</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a> </small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC3" title="Quelle:PRHC3" class="mw-redirect">3</a></center>
+</td></tr>
+<tr>
+<td>15<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR15" title="Quelle:PR15" class="mw-redirect">Die Spur durch Zeit und Raum</a><br /><small>Wer die Unsterblichen sucht, muß in die Vergangenheit eindringen ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Kerlon" title="Kerlon">Kerlon</a>, <a href="/wiki/Ras_Tschubai" title="Ras Tschubai">Ras Tschubai</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a>, <a href="/wiki/Anne_Sloane" title="Anne Sloane">Anne Sloane</a>, <a href="/wiki/Ralf_Marten" title="Ralf Marten">Ralf Marten</a>, <a href="/wiki/Lesur" title="Lesur">Lesur</a>, <a href="/wiki/Robby" title="Robby">Robby</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC3" title="Quelle:PRHC3" class="mw-redirect">3</a></center>
+</td></tr>
+<tr>
+<td>16<br /><a href="/wiki/Kurt_Mahr" title="Kurt Mahr">Kurt Mahr</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR16" title="Quelle:PR16" class="mw-redirect">Die Geister von Gol</a><br /><small>„Die Großen des Gol werden übermächtig, während du <br />zögerst, Perry Rhodan!“</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull, genannt Bully</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Tanaka_Seiko" title="Tanaka Seiko">Tanaka Seiko</a>, <a href="/wiki/Captain" title="Captain">Captain</a> <a href="/wiki/Chaney" title="Chaney">Chaney</a>, <a href="/wiki/Conrad_Deringhouse" title="Conrad Deringhouse">Major Deringhouse</a>, <a href="/wiki/Wuriu_Sengu" title="Wuriu Sengu">Wuriu Sengu</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC3" title="Quelle:PRHC3" class="mw-redirect">3</a></center>
+</td></tr>
+<tr>
+<td>17<br /><a href="/wiki/Kurt_Mahr" title="Kurt Mahr">Kurt Mahr</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR17" title="Quelle:PR17" class="mw-redirect">Planet der sterbenden Sonne</a><br /><small>Sie landeten auf dem Planeten der sterbenden Sonne <br />und fanden – Haß ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Tama_Yokida" title="Tama Yokida">Tama Yokida</a>, <a href="/wiki/Fellmer_Lloyd" title="Fellmer Lloyd">Fellmer Lloyd</a>, <a href="/wiki/Tanner" title="Tanner">Leutnant Tanner</a>, <a href="/wiki/Tanaka_Seiko" title="Tanaka Seiko">Tanaka Seiko</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC3" title="Quelle:PRHC3" class="mw-redirect">3</a></center>
+</td></tr>
+<tr>
+<td>18<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR18" title="Quelle:PR18" class="mw-redirect">Die Rebellen von Tuglan</a><br /><small>Er sah ganz harmlos aus – aber er machte die gewaltige <br />STARDUST&#160;II zu seinem Spielball ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Alban" title="Alban">Alban</a>, <a href="/wiki/Daros" title="Daros">Daros</a>, <a href="/wiki/Rathon" title="Rathon">Rathon</a>, <a href="/wiki/Gucky" title="Gucky">Gucky</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a>, <a href="/wiki/Karolan" title="Karolan">Karolan</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC3" title="Quelle:PRHC3" class="mw-redirect">3</a></center>
+</td></tr>
+<tr>
+<td>19<br /><a href="/wiki/K._H._Scheer" title="K. H. Scheer">K. H. Scheer</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR19" title="Quelle:PR19" class="mw-redirect">Der Unsterbliche</a><br /><small>Ein ganzes Sonnensystem vom Untergang bedroht – <br />nur Perry Rhodan kann die Rettung bringen ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Thort" title="Thort">Thort</a>, <a href="/wiki/Gucky" title="Gucky">Gucky</a>, <a href="/wiki/Manuel_Garand" title="Manuel Garand">Manuel Garand</a>, <a href="/wiki/John_McClears" title="John McClears">Captain McClears</a>, <a href="/wiki/Marcus_Everson" title="Marcus Everson">Leutnant Everson</a>, <a href="/wiki/ES" title="ES">„Er“ oder „Es“</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC3" title="Quelle:PRHC3" class="mw-redirect">3</a></center>
+</td></tr>
+<tr>
+<td>20<br /><a href="/wiki/Kurt_Mahr" title="Kurt Mahr">Kurt Mahr</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR20" title="Quelle:PR20" class="mw-redirect">Venus in Gefahr</a><br /><small>Perry Rhodan verliert viereinhalb Jahre – und ein General <br />greift nach den Geheimnissen der Venus ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Michael_Freyt" title="Michael Freyt">Oberst Freyt</a>, <a href="/wiki/Tomisenkow" title="Tomisenkow">General Tomisenkow</a>, <a href="/wiki/Conrad_Deringhouse" title="Conrad Deringhouse">Major Deringhouse</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a></small>
+</td>
+<td><center>--</center>
+</td></tr>
+<tr>
+<td>21<br /><a href="/wiki/Kurt_Mahr" title="Kurt Mahr">Kurt Mahr</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR21" title="Quelle:PR21" class="mw-redirect">Der Atomkrieg findet nicht statt</a><br /><small>Ein Agent der Dritten Macht greift ein – <br />und die Welt hält Gericht ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Michael_Freyt" title="Michael Freyt">Oberst Freyt</a>, <a href="/wiki/Hauptmann" title="Hauptmann" class="mw-redirect">Hauptmann</a> <a href="/wiki/Jaroslaw_Afimowitsch_Welinskij" title="Jaroslaw Afimowitsch Welinskij">Welinskij</a>, <a href="/wiki/Conrad_Deringhouse" title="Conrad Deringhouse">Major Deringhouse</a>, <a href="/wiki/Fedor_A._Strelnikow" title="Fedor A. Strelnikow">Fedor A.&#160;Strelnikow</a>, <a href="/wiki/Marschall" title="Marschall" class="mw-redirect">Marschall</a> <a href="/wiki/Sirow" title="Sirow">Sirow</a></small>
+</td>
+<td><center>--</center>
+</td></tr>
+<tr>
+<td>22<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR22" title="Quelle:PR22" class="mw-redirect">Thoras Flucht</a><br /><small>Perry Rhodan verfolgt einen Flüchtigen – und wird <br />zum Gefangenen der Venus ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/R-17" title="R-17">R-17</a>, <a href="/wiki/John_Adams" title="John Adams">Adams</a>, <a href="/wiki/Son_Okura" title="Son Okura">Son Okura</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a>, <a href="/wiki/Sergeant" title="Sergeant">Sergeant</a> <a href="/wiki/Rabow" title="Rabow">Rabow</a>, <a href="/wiki/General" title="General">General</a> <a href="/wiki/Tomisenkow" title="Tomisenkow">Tomisenkow</a></small>
+</td>
+<td><center>--</center>
+</td></tr>
+<tr>
+<td>23<br /><a href="/wiki/W._W._Shols" title="W. W. Shols">W. W. Shols</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR23" title="Quelle:PR23" class="mw-redirect">Geheimschaltung X</a><br /><small>Die Natur des Planeten ist tödlich – doch noch gefährlicher <br />sind die Menschen selbst, die dort leben ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a>, <a href="/wiki/Son_Okura" title="Son Okura">Son Okura</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/General" title="General">General</a> <a href="/wiki/Tomisenkow" title="Tomisenkow">Tomisenkow</a>, <a href="/wiki/Oberst" title="Oberst">Oberst</a> <a href="/wiki/Raskujan" title="Raskujan">Raskujan</a></small>
+</td>
+<td><center>--</center>
+</td></tr>
+<tr>
+<td>24<br /><a href="/wiki/Kurt_Mahr" title="Kurt Mahr">Kurt Mahr</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR24" title="Quelle:PR24" class="mw-redirect">Im Dschungel der Urwelt</a><br /><small>Sie gehen durch die Hölle – <br />und gewinnen eine Welt ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a>, <a href="/wiki/Son_Okura" title="Son Okura">Son Okura</a>, <a href="/wiki/Tomisenkow" title="Tomisenkow">General Tomisenkow</a>, <a href="/wiki/Oberst" title="Oberst">Oberst</a> <a href="/wiki/Raskujan" title="Raskujan">Raskujan</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Alicharin" title="Alicharin">Alicharin</a></small>
+</td>
+<td><center>--</center>
+</td></tr>
+<tr>
+<td>25<br /><a href="/wiki/Kurt_Mahr" title="Kurt Mahr">Kurt Mahr</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR25" title="Quelle:PR25" class="mw-redirect">Der Overhead</a><br /><small>Seine Macht ist unbegrenzt – er zwingt jedes Gehirn <br />in seinen Bann ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Michael_Freyt" title="Michael Freyt">Oberst Freyt</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Clifford_Monterny" title="Clifford Monterny" class="mw-redirect">Clifford Monterny</a>, <a href="/wiki/Elmer_Bradley" title="Elmer Bradley">Elmer Bradley</a>, <a href="/wiki/Homer_G._Adams" title="Homer G. Adams" class="mw-redirect">Homer G.&#160;Adams</a>, <a href="/mediawiki/index.php?title=Raleigh&amp;action=edit&amp;redlink=1" class="new" title="Raleigh (Seite nicht vorhanden)">Mr. Raleigh</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Captain" title="Captain">Captain</a> <a href="/wiki/Farina" title="Farina">Farina</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC4" title="Quelle:PRHC4" class="mw-redirect">4</a></center>
+</td></tr>
+<tr>
+<td>26<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR26" title="Quelle:PR26" class="mw-redirect">Duell der Mutanten</a><br /><small>Der Overhead lässt die Maske fallen – <br />er will die Weltmacht ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Clifford_Monterny" title="Clifford Monterny" class="mw-redirect">Clifford Monterny</a>, <a href="/wiki/Julian_Tifflor" title="Julian Tifflor">Julian Tifflor</a>, <a href="/wiki/Klaus_Eberhardt" title="Klaus Eberhardt">Klaus Eberhardt</a>, <a href="/wiki/Tatjana_Michalowna" title="Tatjana Michalowna">Tatjana Michalowna</a>, <a href="/wiki/Andr%C3%A9_Noir" title="André Noir">André Noir</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a>, <a href="/wiki/Betty_Toufry" title="Betty Toufry">Betty Toufry</a>, <a href="/wiki/Gucky" title="Gucky">Gucky</a> </small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC4" title="Quelle:PRHC4" class="mw-redirect">4</a></center>
+</td></tr>
+<tr>
+<td>27<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR27" title="Quelle:PR27" class="mw-redirect">Im Banne des Hypno</a><br /><small>Er wußte nicht, was er tat ... Ein Mensch als <br />ultimate Vernichtungswaffe.</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Conrad_Deringhouse" title="Conrad Deringhouse">Major Deringhouse</a>, <a href="/wiki/Clifford_Monterny" title="Clifford Monterny" class="mw-redirect">Clifford Monterny</a>, <a href="/wiki/Iwan_Iwanowitsch_Goratschin" title="Iwan Iwanowitsch Goratschin">Iwan Iwanowitsch Goratschin</a>, <a href="/wiki/Betty_Toufry" title="Betty Toufry">Betty Toufry</a>, <a href="/wiki/Gucky" title="Gucky">Gucky</a>, <a href="/wiki/Leutnant" title="Leutnant">Leutnant</a> <a href="/wiki/Bings" title="Bings" class="mw-redirect">Bings</a>, <a href="/wiki/Adolf" title="Adolf" class="mw-redirect">Sergeant Adolf</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC4" title="Quelle:PRHC4" class="mw-redirect">4</a></center>
+</td></tr>
+<tr>
+<td>28<br /><a href="/wiki/K._H._Scheer" title="K. H. Scheer">K. H. Scheer</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR28" title="Quelle:PR28" class="mw-redirect">Der kosmische Lockvogel</a><br /><small>Kadett Tifflor unterwegs in geheimer Mission – <br />so geheim, daß er selbst nichts davon weiß ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Julian_Tifflor" title="Julian Tifflor">Julian Tifflor</a>, <a href="/wiki/Marcel_Rous" title="Marcel Rous">First Sergeant Rous</a>, <a href="/wiki/Conrad_Deringhouse" title="Conrad Deringhouse">Major Deringhouse</a>, <a href="/wiki/Humpry_Hifield" title="Humpry Hifield">Humpry Hifield</a>, <a href="/wiki/Klaus_Eberhardt" title="Klaus Eberhardt">Klaus Eberhardt</a>, <a href="/wiki/Mildred_Orsons" title="Mildred Orsons">Mildred Orsons</a>, <a href="/wiki/Orlgans" title="Orlgans">Orlgans</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC4" title="Quelle:PRHC4" class="mw-redirect">4</a></center>
+</td></tr>
+<tr>
+<td>29<br /><a href="/wiki/Kurt_Mahr" title="Kurt Mahr">Kurt Mahr</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR29" title="Quelle:PR29" class="mw-redirect">Die Flotte der Springer</a><br /><small>Seit 8000&#160;Jahren besitzen sie das galaktische Handelsmonopol – <br />weil sie jeden Konkurrenten vernichten ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Julian_Tifflor" title="Julian Tifflor">Julian Tifflor</a>, <a href="/wiki/Humpry_Hifield" title="Humpry Hifield">Humpry Hifield</a>, <a href="/wiki/Klaus_Eberhardt" title="Klaus Eberhardt">Klaus Eberhardt</a>, <a href="/wiki/Mildred_Orsons" title="Mildred Orsons">Mildred Orsons</a>, <a href="/wiki/Felicitas_Kergonen" title="Felicitas Kergonen">Felicitas Kergonen</a>, <a href="/wiki/Orlgans" title="Orlgans">Orlgans</a>, <a href="/wiki/Ornafer" title="Ornafer">Ornafer</a>, <a href="/wiki/RB-013" title="RB-013">RB-013</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC4" title="Quelle:PRHC4" class="mw-redirect">4</a></center>
+</td></tr>
+<tr>
+<td>30<br /><a href="/wiki/Kurt_Mahr" title="Kurt Mahr">Kurt Mahr</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR30" title="Quelle:PR30" class="mw-redirect">Tifflor der Partisan</a><br /><small>Kadetten der Weltraumakademie im Noteinsatz auf einer <br />fremden Welt und gegen einen mächtigen Feind ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Julian_Tifflor" title="Julian Tifflor">Julian Tifflor</a>, <a href="/wiki/Klaus_Eberhardt" title="Klaus Eberhardt">Klaus Eberhardt</a>, <a href="/wiki/Humpry_Hifield" title="Humpry Hifield">Humpry Hifield</a>, <a href="/wiki/Gucky" title="Gucky">Gucky</a>, <a href="/wiki/Orlgans" title="Orlgans">Orlgans</a>, <a href="/wiki/Etztak" title="Etztak">Etztak</a>, <a href="/wiki/RB-013" title="RB-013">RB-013</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC4" title="Quelle:PRHC4" class="mw-redirect">4</a></center>
+</td></tr>
+<tr>
+<td>31<br /><a href="/wiki/W._W._Shols" title="W. W. Shols">W. W. Shols</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR31" title="Quelle:PR31" class="mw-redirect">Der Kaiser von New York</a><br /><small>Höchste Alarmstufe in Terrania – <br />die Roboter revoltieren!</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Michael_Freyt" title="Michael Freyt">Oberst Freyt</a>, <a href="/wiki/Iwan_Iwanowitsch_Goratschin" title="Iwan Iwanowitsch Goratschin">Iwan Iwanowitsch Goratschin</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Homer_G._Adams" title="Homer G. Adams" class="mw-redirect">Homer G.&#160;Adams</a></small>
+</td>
+<td><center>--</center>
+</td></tr>
+<tr>
+<td>32<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR32" title="Quelle:PR32" class="mw-redirect">Ausflug in die Unendlichkeit</a><br /><small>Sie sind zur Einsamkeit verdammt – <br />auf einer Welt ohne Sterne ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Topthor" title="Topthor">Topthor</a>, <a href="/wiki/Grogham" title="Grogham">Grogham</a>, <a href="/wiki/ES" title="ES">„Er“ oder „Es“</a>, <a href="/wiki/Kadett" title="Kadett">Kadett</a> <a href="/mediawiki/index.php?title=Redkens&amp;action=edit&amp;redlink=1" class="new" title="Redkens (Seite nicht vorhanden)">Redkens</a>, <a href="/wiki/Laar" title="Laar">Laar</a>, <a href="/mediawiki/index.php?title=Regoon&amp;action=edit&amp;redlink=1" class="new" title="Regoon (Seite nicht vorhanden)">Regoon</a>, <a href="/wiki/Gorat" title="Gorat">Gorat</a>, <a href="/wiki/Nex" title="Nex">Nex</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC5" title="Quelle:PRHC5" class="mw-redirect">5</a></center>
+</td></tr>
+<tr>
+<td>33<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR33" title="Quelle:PR33" class="mw-redirect">Eiswelt in Flammen</a><br /><small>Die Springer kennen keine Gnade – sie haben <br />eine ganze Welt zum Sterben verurteilt ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Julian_Tifflor" title="Julian Tifflor">Julian Tifflor</a>, <a href="/wiki/Humpry_Hifield" title="Humpry Hifield">Humpry Hifield</a>, <a href="/wiki/Klaus_Eberhardt" title="Klaus Eberhardt">Klaus Eberhardt</a>, <a href="/wiki/Mildred_Orsons" title="Mildred Orsons">Mildred Orsons</a>, <a href="/wiki/Felicitas_Kergonen" title="Felicitas Kergonen">Felicitas Kergonen</a>, <a href="/wiki/RB-013" title="RB-013">RB-013</a>, <a href="/wiki/Topthor" title="Topthor">Topthor</a>, <a href="/wiki/Etztak" title="Etztak">Etztak</a>, <a href="/wiki/Orlgans" title="Orlgans">Orlgans</a>, <a href="/wiki/Gucky" title="Gucky">Gucky</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC5" title="Quelle:PRHC5" class="mw-redirect">5</a></center>
+</td></tr>
+<tr>
+<td>34<br /><a href="/wiki/Kurt_Brand" title="Kurt Brand">Kurt Brand</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR34" title="Quelle:PR34" class="mw-redirect">Levtan der Verräter</a><br /><small>Ein Springer landet in Terrania und wird zur Hauptfigur <br />eines großen Bluffs ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull, genannt Bully</a>, <a href="/wiki/Levtan" title="Levtan">Levtan</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Kitai_Ishibashi" title="Kitai Ishibashi">Kitai Ishibashi</a>, <a href="/wiki/Tama_Yokida" title="Tama Yokida">Tama Yokida</a>, <a href="/wiki/Etztak" title="Etztak">Etztak</a>, <a href="/wiki/Goszul" title="Goszul">Goszul</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC5" title="Quelle:PRHC5" class="mw-redirect">5</a></center>
+</td></tr>
+<tr>
+<td>35<br /><a href="/wiki/Kurt_Mahr" title="Kurt Mahr">Kurt Mahr</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR35" title="Quelle:PR35" class="mw-redirect">Im Land der Götter</a><br /><small>Das Leben auf Goszuls Planet wird für die „Götter“ gefährlich – <br />denn Perry Rhodans Mutanten sind am Werk ...</small></center>
+</td>
+<td><small><a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Kitai_Ishibashi" title="Kitai Ishibashi">Kitai Ishibashi</a>, <a href="/wiki/Tama_Yokida" title="Tama Yokida">Tama Yokida</a>, <a href="/wiki/Gucky" title="Gucky">Gucky</a>, <a href="/wiki/Vethussar_Ologon" title="Vethussar Ologon">Vethussar</a>, <a href="/wiki/Honbled" title="Honbled">Honbled</a>, <a href="/wiki/Etztak" title="Etztak">Etztak</a>, <a href="/wiki/Fafer" title="Fafer" class="mw-redirect">Fafer</a></small>
+</td>
+<td><center>--</center>
+</td></tr>
+<tr>
+<td>36<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR36" title="Quelle:PR36" class="mw-redirect">Die Seuche des Vergessens</a><br /><small>Sie haben Angst vor dem großen Vergessen –<br />und schenken einer Kolonialwelt die Freiheit ...</small></center>
+</td>
+<td><small><a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Kitai_Ishibashi" title="Kitai Ishibashi">Kitai Ishibashi</a>, <a href="/wiki/Tama_Yokida" title="Tama Yokida">Tama Yokida</a>, <a href="/wiki/Gucky" title="Gucky">Gucky</a>, <a href="/wiki/Enzally" title="Enzally">Enzally</a>, <a href="/wiki/Ralv" title="Ralv">Ralv</a>, <a href="/wiki/Ralgor" title="Ralgor">Ralgor</a>, <a href="/wiki/Etztak" title="Etztak">Etztak</a>, <a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC5" title="Quelle:PRHC5" class="mw-redirect">5</a></center>
+</td></tr>
+<tr>
+<td>37<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR37" title="Quelle:PR37" class="mw-redirect">Ein Planet spielt verrückt</a><br /><small>Der kleine Gucky hat seine große Stunde – und Sergeant <br />Harnahan macht eine unglaubliche Entdeckung ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull, genannt Bully</a>, <a href="/wiki/Gucky" title="Gucky">Gucky</a>, <a href="/wiki/Sergeant" title="Sergeant">Sergeant</a> <a href="/wiki/Harnahan" title="Harnahan">Harnahan</a>, <a href="/wiki/Borator" title="Borator">Borator</a>, <a href="/wiki/Topthor" title="Topthor">Topthor</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Kitai_Ishibashi" title="Kitai Ishibashi">Kitai Ishibashi</a>, <a href="/wiki/Tama_Yokida" title="Tama Yokida">Tama Yokida</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC5" title="Quelle:PRHC5" class="mw-redirect">5</a></center>
+</td></tr>
+<tr>
+<td>38<br /><a href="/wiki/Kurt_Mahr" title="Kurt Mahr">Kurt Mahr</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR38" title="Quelle:PR38" class="mw-redirect">Vorstoß nach Arkon</a><br /><small>Sie hatten ein freundliches Willkommen erwartet – aber sie <br />wurden behandelt wie Bettler ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Novaal" title="Novaal">Novaal</a>, <a href="/wiki/Sergh" title="Sergh" class="mw-redirect">Sergh</a>, <a href="/wiki/Ghorn" title="Ghorn">Ghorn</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC5" title="Quelle:PRHC5" class="mw-redirect">5</a></center>
+</td></tr>
+<tr>
+<td>39<br /><a href="/wiki/K._H._Scheer" title="K. H. Scheer">K. H. Scheer</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR39" title="Quelle:PR39" class="mw-redirect">Die Welt der drei Planeten</a><br /><small>Der Herrscher über Arkon – nur eine Marionette <br />des gigantischen Positronengehirns ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Thora_da_Zoltral" title="Thora da Zoltral">Thora</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a>, <a href="/wiki/Orcast_XXI." title="Orcast XXI.">Orcast XXI.</a>, <a href="/wiki/Kenos" title="Kenos">Kenos</a>, <a href="/wiki/Gucky" title="Gucky">Gucky</a>, <a href="/wiki/Julian_Tifflor" title="Julian Tifflor">Julian Tifflor, genannt Tiff</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC5" title="Quelle:PRHC5" class="mw-redirect">5</a></center>
+</td></tr>
+<tr>
+<td>40<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR40" title="Quelle:PR40" class="mw-redirect">Aktion gegen Unbekannt</a><br /><small>Die „Titan“ ist das gewaltigste Schlachtschiff im Universums – <br />und doch muss sie sich vor den Verfolgern verbergen ... </small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Ras_Tschubai" title="Ras Tschubai">Ras Tschubai</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Hemor" title="Hemor">Hemor</a>, <a href="/wiki/Demesor" title="Demesor">Demesor</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC6" title="Quelle:PRHC6" class="mw-redirect">6</a></center>
+</td></tr>
+<tr>
+<td>41<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR41" title="Quelle:PR41" class="mw-redirect">Der Partner des Giganten</a><br /><small>Eine Welt im Banne der Telepathen – und nur das <br />Mutantenkorps kann die Gehirnkontrolle brechen!</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Demesor" title="Demesor">Demesor</a>, <a href="/wiki/Rogal" title="Rogal">Rogal</a>, <a href="/wiki/Zernif" title="Zernif">Zernif</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a>, <a href="/wiki/Gucky" title="Gucky">Gucky</a>, <a href="/wiki/Wuriu_Sengu" title="Wuriu Sengu">Wuriu Sengu</a>, <a href="/wiki/Kitai_Ishibashi" title="Kitai Ishibashi">Kitai Ishibashi</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC6" title="Quelle:PRHC6" class="mw-redirect">6</a></center>
+</td></tr>
+<tr>
+<td>42<br /><a href="/wiki/Kurt_Brand" title="Kurt Brand">Kurt Brand</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR42" title="Quelle:PR42" class="mw-redirect">Raumschiff TITAN funkt SOS</a><br /><small>Honur ist das Grab der Raumschiffe – wer auf dem <br />Planeten landet, ist verloren!</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Crest" title="Crest" class="mw-redirect">Crest</a>, <a href="/wiki/Gucky" title="Gucky">Gucky</a>, <a href="/wiki/Wuriu_Sengu" title="Wuriu Sengu">Wuriu Sengu</a>, <a href="/wiki/Michael_Freyt" title="Michael Freyt">Oberst Freyt</a>, <a href="/wiki/Julian_Tifflor" title="Julian Tifflor">Julian Tifflor</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC6" title="Quelle:PRHC6" class="mw-redirect">6</a></center>
+</td></tr>
+<tr>
+<td>43<br /><a href="/wiki/Kurt_Mahr" title="Kurt Mahr">Kurt Mahr</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR43" title="Quelle:PR43" class="mw-redirect">Rauschgifthändler der Galaxis</a><br /><small>Stoßtruppunternehmen „Landpartie“ – nur drei Mann <br />entgehen der Nonus-Pest!</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Julian_Tifflor" title="Julian Tifflor">Julian Tifflor, genannt Tiff</a>, <a href="/wiki/Hayward" title="Hayward">Dr.&#160;Hayward</a>, <a href="/wiki/Major" title="Major">Major</a> <a href="/wiki/Chaney" title="Chaney">Chaney</a>, <a href="/wiki/O%27Keefe" title="O'Keefe">O'Keefe</a>, <a href="/wiki/Halligan" title="Halligan">Halligan</a>, <a href="/wiki/Nathan_(Honur)" title="Nathan (Honur)">Nathan</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC6" title="Quelle:PRHC6" class="mw-redirect">6</a></center>
+</td></tr>
+<tr>
+<td>44<br /><a href="/wiki/K._H._Scheer" title="K. H. Scheer">K. H. Scheer</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR44" title="Quelle:PR44" class="mw-redirect">Der Mensch und das Monster</a><br /><small>Die Retortenwesen greifen an – <br /> und das Rätsel der Mooffs findet seine Lösung ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Gucky" title="Gucky">Gucky</a>, <a href="/wiki/Admiral" title="Admiral">Admiral</a> <a href="/wiki/Vetron_da_Tatstran" title="Vetron da Tatstran">Vetron</a>, <a href="/wiki/Major" title="Major">Major</a> <a href="/wiki/Chaney" title="Chaney">Chaney</a>, <a href="/wiki/Orson_Certch" title="Orson Certch">Dr.&#160;Orson Certch</a>, <a href="/wiki/Trorth" title="Trorth" class="mw-redirect">Trorth</a>, <a href="/wiki/Captain" title="Captain">Captain</a> <a href="/wiki/Marcus_Everson" title="Marcus Everson">Marcus Everson</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC6" title="Quelle:PRHC6" class="mw-redirect">6</a></center>
+</td></tr>
+<tr>
+<td>45<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR45" title="Quelle:PR45" class="mw-redirect">Seuchenherd Aralon</a><br /><small>Schlachtflotten sind einsatzbereit – doch die galaktischen <br />Mediziner kämpfen nicht mit herkömmlichen Waffen ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Julian_Tifflor" title="Julian Tifflor">Julian Tifflor</a>, <a href="/wiki/Wuriu_Sengu" title="Wuriu Sengu">Wuriu Sengu</a>, <a href="/wiki/Thora" title="Thora" class="mw-redirect">Thora</a>, <a href="/wiki/Gucky" title="Gucky">Gucky</a>, <a href="/wiki/Themos" title="Themos">Themos</a>, <a href="/wiki/Talamon" title="Talamon">Talamon</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC6" title="Quelle:PRHC6" class="mw-redirect">6</a></center>
+</td></tr>
+<tr>
+<td>46<br /><a href="/wiki/Kurt_Brand" title="Kurt Brand">Kurt Brand</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR46" title="Quelle:PR46" class="mw-redirect">Geschäfte mit Arkon-Stahl</a><br /><small>Rettung oder Vernichtung der Erde? – Die Speicherdaten einer <br />Bordpositronik werden zum entscheidenden Faktor ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/Gegul" title="Gegul">Gegul</a>, <a href="/wiki/Keklos" title="Keklos">Keklos</a>, <a href="/wiki/Talamon" title="Talamon">Talamon</a>, <a href="/wiki/Topthor" title="Topthor">Topthor</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC6" title="Quelle:PRHC6" class="mw-redirect">6</a></center>
+</td></tr>
+<tr>
+<td>47<br /><a href="/wiki/Kurt_Mahr" title="Kurt Mahr">Kurt Mahr</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR47" title="Quelle:PR47" class="mw-redirect">Gom antwortet nicht</a><br /><small>Das Gom ist überall! – Wettlauf mit dem Tod in der <br />Zwielichtzone des Höllenplaneten</small></center>
+</td>
+<td><small><a href="/wiki/Reginald_Bull" title="Reginald Bull">Reginald Bull</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a>, <a href="/wiki/Iwan_Iwanowitsch_Goratschin" title="Iwan Iwanowitsch Goratschin">Iwan Iwanowitsch Goratschin</a>, <a href="/wiki/Betty_Toufry" title="Betty Toufry">Betty Toufry</a>, <a href="/wiki/Tako_Kakuta" title="Tako Kakuta">Tako Kakuta</a>, <a href="/wiki/Ras_Tschubai" title="Ras Tschubai">Ras Tschubai</a>, <a href="/wiki/Wuriu_Sengu" title="Wuriu Sengu">Wuriu Sengu</a>, <a href="/wiki/Kitai_Ishibashi" title="Kitai Ishibashi">Kitai Ishibashi</a>, <a href="/wiki/Tama_Yokida" title="Tama Yokida">Tama Yokida</a></small>
+</td>
+<td><center>--</center>
+</td></tr>
+<tr>
+<td>48<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR48" title="Quelle:PR48" class="mw-redirect">Rotes Auge Beteigeuze</a><br /><small>Ein alter, fast vergessener Gegner taucht auf – <br />und Gucky möchte Echsen fliegen sehen ...</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Gucky" title="Gucky">Gucky</a>, <a href="/wiki/John_Marshall" title="John Marshall">John Marshall</a>, <a href="/wiki/Al-Khor" title="Al-Khor">Al-Khor</a>, <a href="/wiki/Conrad_Deringhouse" title="Conrad Deringhouse">Major Deringhouse</a>, <a href="/wiki/John_McClears" title="John McClears">Major McClears</a>, <a href="/wiki/Wor-L%C3%B6k" title="Wor-Lök">Wor-Löck</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC7" title="Quelle:PRHC7" class="mw-redirect">7</a></center>
+</td></tr>
+<tr>
+<td>49<br /><a href="/wiki/Clark_Darlton" title="Clark Darlton">Clark Darlton</a>
+</td>
+<td><center><a href="/wiki/Quelle:PR49" title="Quelle:PR49" class="mw-redirect">Die Erde stirbt</a><br /><small>Das Ende einer Epoche – die Erde versinkt im Meer <br />des Vergessens</small></center>
+</td>
+<td><small><a href="/wiki/Perry_Rhodan" title="Perry Rhodan">Perry Rhodan</a>, <a href="/wiki/Conrad_Deringhouse" title="Conrad Deringhouse">Major Deringhouse</a>, <a href="/wiki/Al-Khor" title="Al-Khor">Al-Khor</a>, <a href="/wiki/Ber-Ka" title="Ber-Ka">Ber-Ka</a>, <a href="/wiki/Cekztel" title="Cekztel">Cekztel</a>, <a href="/wiki/Topthor" title="Topthor">Topthor</a>, <a href="/wiki/Gucky" title="Gucky">Gucky</a></small>
+</td>
+<td><center><a href="/wiki/Quelle:PRHC7" title="Quelle:PRHC7" class="mw-redirect">7</a></center>
+</td></tr>
+</table>
+<p><br style="clear:both;" />
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.499 seconds
+Real time usage: 0.526 seconds
+Preprocessor visited node count: 1747/1000000
+Preprocessor generated node count: 5914/1000000
+Post‐expand include size: 23610/2097152 bytes
+Template argument size: 8621/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 0/1000
+-->
+</div>								<div class="printfooter">
+				Von „<a href="http://www.perrypedia.proc.org/mediawiki/index.php?title=Die_Dritte_Macht_(Zyklus)&amp;oldid=1233252">http://www.perrypedia.proc.org/mediawiki/index.php?title=Die_Dritte_Macht_(Zyklus)&amp;oldid=1233252</a>“				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Spezial:Kategorien" title="Spezial:Kategorien">Kategorien</a>: <ul><li><a href="/wiki/Kategorie:Perry_Rhodan-Zyklus" title="Kategorie:Perry Rhodan-Zyklus">Perry Rhodan-Zyklus</a></li><li><a href="/wiki/Kategorie:Die_Dritte_Macht" title="Kategorie:Die Dritte Macht">Die Dritte Macht</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigationsmenü</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Meine Werkzeuge</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/mediawiki/index.php?title=Spezial:Anmelden&amp;returnto=Die+Dritte+Macht+%28Zyklus%29&amp;type=signup">Benutzerkonto erstellen</a></li><li id="pt-login"><a href="/mediawiki/index.php?title=Spezial:Anmelden&amp;returnto=Die+Dritte+Macht+%28Zyklus%29" title="Sich anzumelden wird zwar gerne gesehen, ist aber keine Pflicht. [o]" accesskey="o">Anmelden</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namensräume</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Die_Dritte_Macht_(Zyklus)"  title="Seiteninhalt anzeigen [c]" accesskey="c">Seite</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Diskussion:Die_Dritte_Macht_(Zyklus)"  title="Diskussion zum Seiteninhalt [t]" accesskey="t">Diskussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Varianten</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Ansichten</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Die_Dritte_Macht_(Zyklus)" >Lesen</a></span></li>
+					<li id="ca-viewsource"><span><a href="/mediawiki/index.php?title=Die_Dritte_Macht_(Zyklus)&amp;action=edit"  title="Diese Seite ist geschützt. Ihr Quelltext kann dennoch angesehen und kopiert werden. [e]" accesskey="e">Quelltext anzeigen</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/mediawiki/index.php?title=Die_Dritte_Macht_(Zyklus)&amp;action=history"  title="Frühere Versionen dieser Seite [h]" accesskey="h">Versionsgeschichte</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Aktionen</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Suche</label></h3>
+	<form action="/mediawiki/index.php" id="searchform">
+					<div id="simpleSearch">
+					<input type="search" name="search" placeholder="Suchen" title="Perrypedia durchsuchen [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Spezial:Suche" name="title" /><input type="submit" name="fulltext" value="Suchen" title="Suche nach Seiten, die diesen Text enthalten" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Seite" title="Gehe direkt zu der Seite, die exakt dem eingegebenen Namen entspricht." id="searchButton" class="searchButton" />		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/mediawiki/skins/common/images/perrypedia.png);" href="/wiki/Hauptseite"  title="Hauptseite"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage"><a href="/wiki/Hauptseite" title="Hauptseite anzeigen [z]" accesskey="z">Hauptseite</a></li>
+			<li id="n-portal"><a href="/wiki/Perrypedia:Portal" title="Über das Projekt, was du tun kannst, wo was zu finden ist">Portal</a></li>
+			<li id="n-Jahreskalender"><a href="/wiki/Jahreskalender">Jahreskalender</a></li>
+			<li id="n-Kategorien"><a href="/wiki/Perrypedia:Liste_aller_Kategorien">Kategorien</a></li>
+			<li id="n-Zyklen"><a href="/wiki/Zyklen">Zyklen</a></li>
+			<li id="n-currentevents"><a href="/wiki/Sternengruft_(Zyklus)" title="Hintergrundinformationen zu aktuellen Ereignissen">Aktuelle Handlung</a></li>
+			<li id="n-Exzellente-Artikel"><a href="/wiki/Perrypedia:Exzellente_Artikel">Exzellente Artikel</a></li>
+			<li id="n-Galerien"><a href="/wiki/Galerien">Galerien</a></li>
+			<li id="n-randompage"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite aufrufen [x]" accesskey="x">Zufällige Seite</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-Mitmachen' aria-labelledby='p-Mitmachen-label'>
+	<h3 id='p-Mitmachen-label'>Mitmachen</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Hilfe:Handbuch" title="Hilfeseite anzeigen">Hilfe</a></li>
+			<li id="n-Kommunikation"><a href="/wiki/Perrypedia:Kommunikation">Kommunikation</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Perrypedia [r]" accesskey="r">Letzte Änderungen</a></li>
+			<li id="n-Neue-Seiten"><a href="/wiki/Spezial:Neue_Seiten">Neue Seiten</a></li>
+			<li id="n-Deine-Spende"><a href="/wiki/Perrypedia:Spenden">Deine Spende</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-Formatvorlagen' aria-labelledby='p-Formatvorlagen-label'>
+	<h3 id='p-Formatvorlagen-label'>Formatvorlagen</h3>
+	<div class="body">
+		<ul>
+			<li id="n-Begriffskl.C3.A4rung"><a href="/wiki/Perrypedia:Formatvorlage_Begriffskl%C3%A4rung">Begriffsklärung</a></li>
+			<li id="n-Galaxie"><a href="/wiki/Perrypedia:Formatvorlage_Galaxie">Galaxie</a></li>
+			<li id="n-Mond"><a href="/wiki/Perrypedia:Formatvorlage_Monde">Mond</a></li>
+			<li id="n-Person"><a href="/wiki/Perrypedia:Formatvorlage_Person">Person</a></li>
+			<li id="n-Planet"><a href="/wiki/Perrypedia:Formatvorlage_Planeten">Planet</a></li>
+			<li id="n-Portal"><a href="/wiki/Perrypedia:Formatvorlage_Portal" title="Über das Projekt, was du tun kannst, wo was zu finden ist">Portal</a></li>
+			<li id="n-Raumschiff"><a href="/wiki/Perrypedia:Formatvorlage_Raumschiffe">Raumschiff</a></li>
+			<li id="n-Raumschiffsklasse"><a href="/wiki/Perrypedia:Formatvorlage_Raumschiffsklassen">Raumschiffsklasse</a></li>
+			<li id="n-Sonnensystem"><a href="/wiki/Perrypedia:Formatvorlage_Sonnensystem">Sonnensystem</a></li>
+			<li id="n-Stadt"><a href="/wiki/Perrypedia:Formatvorlage_St%C3%A4dte">Stadt</a></li>
+			<li id="n-Volk"><a href="/wiki/Perrypedia:Formatvorlage_Volk">Volk</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Werkzeuge</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Die_Dritte_Macht_(Zyklus)" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j">Links auf diese Seite</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Die_Dritte_Macht_(Zyklus)" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li>
+			<li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li>
+			<li id="t-print"><a href="/mediawiki/index.php?title=Die_Dritte_Macht_(Zyklus)&amp;printable=yes" rel="alternate" title="Druckansicht dieser Seite [p]" accesskey="p">Druckversion</a></li>
+			<li id="t-permalink"><a href="/mediawiki/index.php?title=Die_Dritte_Macht_(Zyklus)&amp;oldid=1233252" title="Dauerhafter Link zu dieser Seitenversion">Permanenter Link</a></li>
+			<li id="t-info"><a href="/mediawiki/index.php?title=Die_Dritte_Macht_(Zyklus)&amp;action=info">Seiteninformationen</a></li>
+<li id="t-smwbrowselink"><a href="/wiki/Spezial:Browsen/Die_Dritte_Macht_(Zyklus)" title="Spezial:Browsen/Die Dritte Macht (Zyklus)">Attribute anzeigen</a></li><li id="t-cite"><a href="/mediawiki/index.php?title=Spezial:Zitierhilfe&amp;page=Die_Dritte_Macht_%28Zyklus%29&amp;id=1233252" title="Hinweis, wie diese Seite zitiert werden kann">Artikel zitieren</a></li>		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Diese Seite wurde zuletzt am 28. September 2016 um 08:45 Uhr geändert.</li>
+											<li id="footer-info-viewcount">Diese Seite wurde bisher 94.764 mal abgerufen.</li>
+											<li id="footer-info-copyright">Der Inhalt ist verfügbar unter der Lizenz <a class="external" rel="nofollow" href="http://www.gnu.org/copyleft/fdl.html">GNU Free Documentation License 1.2</a>, sofern nicht anders angegeben.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Perrypedia:Datenschutz" title="Perrypedia:Datenschutz">Datenschutz</a></li>
+											<li id="footer-places-about"><a href="/wiki/Hilfe:%C3%9Cber_Perrypedia" title="Hilfe:Über Perrypedia">Über Perrypedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Perrypedia:Impressum" title="Perrypedia:Impressum">Impressum</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="http://www.gnu.org/copyleft/fdl.html"><img src="/mediawiki/skins/common/images/gnu-fdl.png" alt="GNU Free Documentation License 1.2" width="88" height="31" /></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/mediawiki/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+						<a href="http://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/mediawiki/extensions/SemanticMediaWiki/skins/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.slideshow.main","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://www.perrypedia.proc.org/mediawiki/load.php?debug=false&amp;lang=de&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":646});
+}</script>
+	</body>
+</html>
